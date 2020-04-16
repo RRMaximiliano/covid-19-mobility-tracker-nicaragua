@@ -1,0 +1,2100 @@
+"country","date","variable","value"
+"CR",2020-04-05,"grocery and pharmacy",-41
+"CR",2020-04-04,"grocery and pharmacy",-40
+"CR",2020-04-03,"grocery and pharmacy",-29
+"CR",2020-04-02,"grocery and pharmacy",-23
+"CR",2020-04-01,"grocery and pharmacy",-27
+"CR",2020-03-31,"grocery and pharmacy",-27
+"CR",2020-03-30,"grocery and pharmacy",-28
+"CR",2020-03-29,"grocery and pharmacy",-41
+"CR",2020-03-28,"grocery and pharmacy",-33
+"CR",2020-03-27,"grocery and pharmacy",-29
+"CR",2020-03-26,"grocery and pharmacy",-35
+"CR",2020-03-25,"grocery and pharmacy",-36
+"CR",2020-03-24,"grocery and pharmacy",-35
+"CR",2020-03-23,"grocery and pharmacy",-32
+"CR",2020-03-22,"grocery and pharmacy",-40
+"CR",2020-03-21,"grocery and pharmacy",-33
+"CR",2020-03-20,"grocery and pharmacy",-25
+"CR",2020-03-19,"grocery and pharmacy",-17
+"CR",2020-03-18,"grocery and pharmacy",-13
+"CR",2020-03-17,"grocery and pharmacy",-4
+"CR",2020-03-16,"grocery and pharmacy",8
+"CR",2020-03-15,"grocery and pharmacy",7
+"CR",2020-03-14,"grocery and pharmacy",7
+"CR",2020-03-13,"grocery and pharmacy",6
+"CR",2020-03-12,"grocery and pharmacy",1
+"CR",2020-03-11,"grocery and pharmacy",-1
+"CR",2020-03-10,"grocery and pharmacy",2
+"CR",2020-03-09,"grocery and pharmacy",4
+"CR",2020-03-08,"grocery and pharmacy",4
+"CR",2020-03-07,"grocery and pharmacy",4
+"CR",2020-03-06,"grocery and pharmacy",3
+"CR",2020-03-05,"grocery and pharmacy",2
+"CR",2020-03-04,"grocery and pharmacy",2
+"CR",2020-03-03,"grocery and pharmacy",4
+"CR",2020-03-02,"grocery and pharmacy",8
+"CR",2020-03-01,"grocery and pharmacy",11
+"CR",2020-02-29,"grocery and pharmacy",13
+"CR",2020-02-28,"grocery and pharmacy",11
+"CR",2020-02-27,"grocery and pharmacy",4
+"CR",2020-02-26,"grocery and pharmacy",-1
+"CR",2020-02-25,"grocery and pharmacy",-2
+"CR",2020-02-24,"grocery and pharmacy",-1
+"CR",2020-02-23,"grocery and pharmacy",1
+"CR",2020-02-22,"grocery and pharmacy",2
+"CR",2020-02-21,"grocery and pharmacy",1
+"CR",2020-02-20,"grocery and pharmacy",0
+"CR",2020-02-19,"grocery and pharmacy",-1
+"CR",2020-02-18,"grocery and pharmacy",0
+"CR",2020-02-17,"grocery and pharmacy",3
+"CR",2020-02-16,"grocery and pharmacy",5
+"CR",2020-04-05,"parks",-74
+"CR",2020-04-04,"parks",-69
+"CR",2020-04-03,"parks",-57
+"CR",2020-04-02,"parks",-54
+"CR",2020-04-01,"parks",-54
+"CR",2020-03-31,"parks",-53
+"CR",2020-03-30,"parks",-53
+"CR",2020-03-29,"parks",-71
+"CR",2020-03-28,"parks",-63
+"CR",2020-03-27,"parks",-56
+"CR",2020-03-26,"parks",-58
+"CR",2020-03-25,"parks",-57
+"CR",2020-03-24,"parks",-58
+"CR",2020-03-23,"parks",-54
+"CR",2020-03-22,"parks",-66
+"CR",2020-03-21,"parks",-62
+"CR",2020-03-20,"parks",-52
+"CR",2020-03-19,"parks",-45
+"CR",2020-03-18,"parks",-35
+"CR",2020-03-17,"parks",-29
+"CR",2020-03-16,"parks",-19
+"CR",2020-03-15,"parks",-20
+"CR",2020-03-14,"parks",-16
+"CR",2020-03-13,"parks",-11
+"CR",2020-03-12,"parks",-12
+"CR",2020-03-11,"parks",-11
+"CR",2020-03-10,"parks",-8
+"CR",2020-03-09,"parks",-6
+"CR",2020-03-08,"parks",-6
+"CR",2020-03-07,"parks",-6
+"CR",2020-03-06,"parks",-5
+"CR",2020-03-05,"parks",-4
+"CR",2020-03-04,"parks",-2
+"CR",2020-03-03,"parks",0
+"CR",2020-03-02,"parks",2
+"CR",2020-03-01,"parks",2
+"CR",2020-02-29,"parks",1
+"CR",2020-02-28,"parks",2
+"CR",2020-02-27,"parks",-2
+"CR",2020-02-26,"parks",-4
+"CR",2020-02-25,"parks",-1
+"CR",2020-02-24,"parks",-1
+"CR",2020-02-23,"parks",-1
+"CR",2020-02-22,"parks",-1
+"CR",2020-02-21,"parks",-2
+"CR",2020-02-20,"parks",-4
+"CR",2020-02-19,"parks",-2
+"CR",2020-02-18,"parks",-1
+"CR",2020-02-17,"parks",-1
+"CR",2020-02-16,"parks",1
+"CR",2020-04-05,"residential",21
+"CR",2020-04-04,"residential",25
+"CR",2020-04-03,"residential",23
+"CR",2020-04-02,"residential",21
+"CR",2020-04-01,"residential",20
+"CR",2020-03-31,"residential",19
+"CR",2020-03-30,"residential",19
+"CR",2020-03-29,"residential",21
+"CR",2020-03-28,"residential",22
+"CR",2020-03-27,"residential",22
+"CR",2020-03-26,"residential",22
+"CR",2020-03-25,"residential",21
+"CR",2020-03-24,"residential",20
+"CR",2020-03-23,"residential",19
+"CR",2020-03-22,"residential",20
+"CR",2020-03-21,"residential",20
+"CR",2020-03-20,"residential",19
+"CR",2020-03-19,"residential",16
+"CR",2020-03-18,"residential",13
+"CR",2020-03-17,"residential",10
+"CR",2020-03-16,"residential",5
+"CR",2020-03-15,"residential",5
+"CR",2020-03-14,"residential",5
+"CR",2020-03-13,"residential",2
+"CR",2020-03-12,"residential",1
+"CR",2020-03-11,"residential",1
+"CR",2020-03-10,"residential",-1
+"CR",2020-03-09,"residential",-2
+"CR",2020-03-08,"residential",0
+"CR",2020-03-07,"residential",2
+"CR",2020-03-06,"residential",0
+"CR",2020-03-05,"residential",-2
+"CR",2020-03-04,"residential",-2
+"CR",2020-03-03,"residential",-3
+"CR",2020-03-02,"residential",-3
+"CR",2020-03-01,"residential",-2
+"CR",2020-02-29,"residential",0
+"CR",2020-02-28,"residential",-1
+"CR",2020-02-27,"residential",-3
+"CR",2020-02-26,"residential",-2
+"CR",2020-02-25,"residential",-2
+"CR",2020-02-24,"residential",-2
+"CR",2020-02-23,"residential",-2
+"CR",2020-02-22,"residential",1
+"CR",2020-02-21,"residential",1
+"CR",2020-02-20,"residential",-2
+"CR",2020-02-19,"residential",-2
+"CR",2020-02-18,"residential",-2
+"CR",2020-02-17,"residential",-3
+"CR",2020-02-16,"residential",-3
+"CR",2020-04-05,"retail and recreation",-74
+"CR",2020-04-04,"retail and recreation",-73
+"CR",2020-04-03,"retail and recreation",-55
+"CR",2020-04-02,"retail and recreation",-48
+"CR",2020-04-01,"retail and recreation",-49
+"CR",2020-03-31,"retail and recreation",-48
+"CR",2020-03-30,"retail and recreation",-47
+"CR",2020-03-29,"retail and recreation",-68
+"CR",2020-03-28,"retail and recreation",-59
+"CR",2020-03-27,"retail and recreation",-53
+"CR",2020-03-26,"retail and recreation",-54
+"CR",2020-03-25,"retail and recreation",-54
+"CR",2020-03-24,"retail and recreation",-53
+"CR",2020-03-23,"retail and recreation",-50
+"CR",2020-03-22,"retail and recreation",-64
+"CR",2020-03-21,"retail and recreation",-59
+"CR",2020-03-20,"retail and recreation",-50
+"CR",2020-03-19,"retail and recreation",-43
+"CR",2020-03-18,"retail and recreation",-36
+"CR",2020-03-17,"retail and recreation",-28
+"CR",2020-03-16,"retail and recreation",-19
+"CR",2020-03-15,"retail and recreation",-19
+"CR",2020-03-14,"retail and recreation",-13
+"CR",2020-03-13,"retail and recreation",-8
+"CR",2020-03-12,"retail and recreation",-10
+"CR",2020-03-11,"retail and recreation",-12
+"CR",2020-03-10,"retail and recreation",-10
+"CR",2020-03-09,"retail and recreation",-8
+"CR",2020-03-08,"retail and recreation",-6
+"CR",2020-03-07,"retail and recreation",-4
+"CR",2020-03-06,"retail and recreation",-3
+"CR",2020-03-05,"retail and recreation",-4
+"CR",2020-03-04,"retail and recreation",-4
+"CR",2020-03-03,"retail and recreation",-3
+"CR",2020-03-02,"retail and recreation",-1
+"CR",2020-03-01,"retail and recreation",1
+"CR",2020-02-29,"retail and recreation",3
+"CR",2020-02-28,"retail and recreation",4
+"CR",2020-02-27,"retail and recreation",0
+"CR",2020-02-26,"retail and recreation",-6
+"CR",2020-02-25,"retail and recreation",-7
+"CR",2020-02-24,"retail and recreation",-6
+"CR",2020-02-23,"retail and recreation",-4
+"CR",2020-02-22,"retail and recreation",-4
+"CR",2020-02-21,"retail and recreation",-3
+"CR",2020-02-20,"retail and recreation",-5
+"CR",2020-02-19,"retail and recreation",-4
+"CR",2020-02-18,"retail and recreation",-4
+"CR",2020-02-17,"retail and recreation",-3
+"CR",2020-02-16,"retail and recreation",-1
+"CR",2020-04-05,"transit stations",-70
+"CR",2020-04-04,"transit stations",-67
+"CR",2020-04-03,"transit stations",-57
+"CR",2020-04-02,"transit stations",-55
+"CR",2020-04-01,"transit stations",-56
+"CR",2020-03-31,"transit stations",-55
+"CR",2020-03-30,"transit stations",-56
+"CR",2020-03-29,"transit stations",-68
+"CR",2020-03-28,"transit stations",-61
+"CR",2020-03-27,"transit stations",-57
+"CR",2020-03-26,"transit stations",-58
+"CR",2020-03-25,"transit stations",-57
+"CR",2020-03-24,"transit stations",-56
+"CR",2020-03-23,"transit stations",-54
+"CR",2020-03-22,"transit stations",-62
+"CR",2020-03-21,"transit stations",-56
+"CR",2020-03-20,"transit stations",-48
+"CR",2020-03-19,"transit stations",-42
+"CR",2020-03-18,"transit stations",-35
+"CR",2020-03-17,"transit stations",-28
+"CR",2020-03-16,"transit stations",-20
+"CR",2020-03-15,"transit stations",-18
+"CR",2020-03-14,"transit stations",-15
+"CR",2020-03-13,"transit stations",-11
+"CR",2020-03-12,"transit stations",-11
+"CR",2020-03-11,"transit stations",-10
+"CR",2020-03-10,"transit stations",-7
+"CR",2020-03-09,"transit stations",-3
+"CR",2020-03-08,"transit stations",-5
+"CR",2020-03-07,"transit stations",-5
+"CR",2020-03-06,"transit stations",-2
+"CR",2020-03-05,"transit stations",-1
+"CR",2020-03-04,"transit stations",-1
+"CR",2020-03-03,"transit stations",0
+"CR",2020-03-02,"transit stations",2
+"CR",2020-03-01,"transit stations",2
+"CR",2020-02-29,"transit stations",2
+"CR",2020-02-28,"transit stations",4
+"CR",2020-02-27,"transit stations",1
+"CR",2020-02-26,"transit stations",-2
+"CR",2020-02-25,"transit stations",-2
+"CR",2020-02-24,"transit stations",0
+"CR",2020-02-23,"transit stations",0
+"CR",2020-02-22,"transit stations",-2
+"CR",2020-02-21,"transit stations",-1
+"CR",2020-02-20,"transit stations",1
+"CR",2020-02-19,"transit stations",0
+"CR",2020-02-18,"transit stations",0
+"CR",2020-02-17,"transit stations",1
+"CR",2020-02-16,"transit stations",2
+"CR",2020-04-05,"workplaces",-43
+"CR",2020-04-04,"workplaces",-46
+"CR",2020-04-03,"workplaces",-42
+"CR",2020-04-02,"workplaces",-42
+"CR",2020-04-01,"workplaces",-41
+"CR",2020-03-31,"workplaces",-41
+"CR",2020-03-30,"workplaces",-39
+"CR",2020-03-29,"workplaces",-39
+"CR",2020-03-28,"workplaces",-34
+"CR",2020-03-27,"workplaces",-37
+"CR",2020-03-26,"workplaces",-40
+"CR",2020-03-25,"workplaces",-39
+"CR",2020-03-24,"workplaces",-38
+"CR",2020-03-23,"workplaces",-35
+"CR",2020-03-22,"workplaces",-34
+"CR",2020-03-21,"workplaces",-28
+"CR",2020-03-20,"workplaces",-26
+"CR",2020-03-19,"workplaces",-24
+"CR",2020-03-18,"workplaces",-19
+"CR",2020-03-17,"workplaces",-15
+"CR",2020-03-16,"workplaces",-1
+"CR",2020-03-15,"workplaces",0
+"CR",2020-03-14,"workplaces",1
+"CR",2020-03-13,"workplaces",11
+"CR",2020-03-12,"workplaces",15
+"CR",2020-03-11,"workplaces",16
+"CR",2020-03-10,"workplaces",18
+"CR",2020-03-09,"workplaces",20
+"CR",2020-03-08,"workplaces",11
+"CR",2020-03-07,"workplaces",3
+"CR",2020-03-06,"workplaces",13
+"CR",2020-03-05,"workplaces",21
+"CR",2020-03-04,"workplaces",20
+"CR",2020-03-03,"workplaces",21
+"CR",2020-03-02,"workplaces",22
+"CR",2020-03-01,"workplaces",16
+"CR",2020-02-29,"workplaces",4
+"CR",2020-02-28,"workplaces",11
+"CR",2020-02-27,"workplaces",22
+"CR",2020-02-26,"workplaces",20
+"CR",2020-02-25,"workplaces",21
+"CR",2020-02-24,"workplaces",21
+"CR",2020-02-23,"workplaces",18
+"CR",2020-02-22,"workplaces",1
+"CR",2020-02-21,"workplaces",6
+"CR",2020-02-20,"workplaces",21
+"CR",2020-02-19,"workplaces",19
+"CR",2020-02-18,"workplaces",20
+"CR",2020-02-17,"workplaces",20
+"CR",2020-02-16,"workplaces",20
+"GT",2020-04-05,"grocery and pharmacy",-33
+"GT",2020-04-04,"grocery and pharmacy",-33
+"GT",2020-04-03,"grocery and pharmacy",-29
+"GT",2020-04-02,"grocery and pharmacy",-31
+"GT",2020-04-01,"grocery and pharmacy",-30
+"GT",2020-03-31,"grocery and pharmacy",-32
+"GT",2020-03-30,"grocery and pharmacy",-36
+"GT",2020-03-29,"grocery and pharmacy",-39
+"GT",2020-03-28,"grocery and pharmacy",-40
+"GT",2020-03-27,"grocery and pharmacy",-41
+"GT",2020-03-26,"grocery and pharmacy",-42
+"GT",2020-03-25,"grocery and pharmacy",-44
+"GT",2020-03-24,"grocery and pharmacy",-47
+"GT",2020-03-23,"grocery and pharmacy",-46
+"GT",2020-03-22,"grocery and pharmacy",-50
+"GT",2020-03-21,"grocery and pharmacy",-42
+"GT",2020-03-20,"grocery and pharmacy",-32
+"GT",2020-03-19,"grocery and pharmacy",-28
+"GT",2020-03-18,"grocery and pharmacy",-25
+"GT",2020-03-17,"grocery and pharmacy",-12
+"GT",2020-03-16,"grocery and pharmacy",10
+"GT",2020-03-15,"grocery and pharmacy",9
+"GT",2020-03-14,"grocery and pharmacy",9
+"GT",2020-03-13,"grocery and pharmacy",14
+"GT",2020-03-12,"grocery and pharmacy",9
+"GT",2020-03-11,"grocery and pharmacy",2
+"GT",2020-03-10,"grocery and pharmacy",-1
+"GT",2020-03-09,"grocery and pharmacy",-3
+"GT",2020-03-08,"grocery and pharmacy",-1
+"GT",2020-03-07,"grocery and pharmacy",0
+"GT",2020-03-06,"grocery and pharmacy",1
+"GT",2020-03-05,"grocery and pharmacy",2
+"GT",2020-03-04,"grocery and pharmacy",3
+"GT",2020-03-03,"grocery and pharmacy",2
+"GT",2020-03-02,"grocery and pharmacy",2
+"GT",2020-03-01,"grocery and pharmacy",4
+"GT",2020-02-29,"grocery and pharmacy",7
+"GT",2020-02-28,"grocery and pharmacy",6
+"GT",2020-02-27,"grocery and pharmacy",3
+"GT",2020-02-26,"grocery and pharmacy",0
+"GT",2020-02-25,"grocery and pharmacy",-4
+"GT",2020-02-24,"grocery and pharmacy",-5
+"GT",2020-02-23,"grocery and pharmacy",-4
+"GT",2020-02-22,"grocery and pharmacy",-2
+"GT",2020-02-21,"grocery and pharmacy",-3
+"GT",2020-02-20,"grocery and pharmacy",-1
+"GT",2020-02-19,"grocery and pharmacy",-2
+"GT",2020-02-18,"grocery and pharmacy",-2
+"GT",2020-02-17,"grocery and pharmacy",-2
+"GT",2020-02-16,"grocery and pharmacy",-1
+"GT",2020-04-05,"parks",-51
+"GT",2020-04-04,"parks",-47
+"GT",2020-04-03,"parks",-44
+"GT",2020-04-02,"parks",-44
+"GT",2020-04-01,"parks",-42
+"GT",2020-03-31,"parks",-42
+"GT",2020-03-30,"parks",-44
+"GT",2020-03-29,"parks",-53
+"GT",2020-03-28,"parks",-50
+"GT",2020-03-27,"parks",-50
+"GT",2020-03-26,"parks",-52
+"GT",2020-03-25,"parks",-51
+"GT",2020-03-24,"parks",-53
+"GT",2020-03-23,"parks",-54
+"GT",2020-03-22,"parks",-61
+"GT",2020-03-21,"parks",-55
+"GT",2020-03-20,"parks",-46
+"GT",2020-03-19,"parks",-41
+"GT",2020-03-18,"parks",-38
+"GT",2020-03-17,"parks",-31
+"GT",2020-03-16,"parks",-17
+"GT",2020-03-15,"parks",-13
+"GT",2020-03-14,"parks",-5
+"GT",2020-03-13,"parks",2
+"GT",2020-03-12,"parks",1
+"GT",2020-03-11,"parks",0
+"GT",2020-03-10,"parks",0
+"GT",2020-03-09,"parks",-2
+"GT",2020-03-08,"parks",1
+"GT",2020-03-07,"parks",4
+"GT",2020-03-06,"parks",3
+"GT",2020-03-05,"parks",3
+"GT",2020-03-04,"parks",3
+"GT",2020-03-03,"parks",3
+"GT",2020-03-02,"parks",2
+"GT",2020-03-01,"parks",1
+"GT",2020-02-29,"parks",5
+"GT",2020-02-28,"parks",4
+"GT",2020-02-27,"parks",3
+"GT",2020-02-26,"parks",3
+"GT",2020-02-25,"parks",1
+"GT",2020-02-24,"parks",-2
+"GT",2020-02-23,"parks",-3
+"GT",2020-02-22,"parks",1
+"GT",2020-02-21,"parks",-1
+"GT",2020-02-20,"parks",0
+"GT",2020-02-19,"parks",1
+"GT",2020-02-18,"parks",0
+"GT",2020-02-17,"parks",1
+"GT",2020-02-16,"parks",-1
+"GT",2020-04-05,"residential",17
+"GT",2020-04-04,"residential",21
+"GT",2020-04-03,"residential",28
+"GT",2020-04-02,"residential",27
+"GT",2020-04-01,"residential",26
+"GT",2020-03-31,"residential",26
+"GT",2020-03-30,"residential",26
+"GT",2020-03-29,"residential",19
+"GT",2020-03-28,"residential",23
+"GT",2020-03-27,"residential",32
+"GT",2020-03-26,"residential",31
+"GT",2020-03-25,"residential",31
+"GT",2020-03-24,"residential",31
+"GT",2020-03-23,"residential",31
+"GT",2020-03-22,"residential",23
+"GT",2020-03-21,"residential",23
+"GT",2020-03-20,"residential",26
+"GT",2020-03-19,"residential",24
+"GT",2020-03-18,"residential",23
+"GT",2020-03-17,"residential",20
+"GT",2020-03-16,"residential",10
+"GT",2020-03-15,"residential",5
+"GT",2020-03-14,"residential",1
+"GT",2020-03-13,"residential",0
+"GT",2020-03-12,"residential",0
+"GT",2020-03-11,"residential",0
+"GT",2020-03-10,"residential",0
+"GT",2020-03-09,"residential",0
+"GT",2020-03-08,"residential",0
+"GT",2020-03-07,"residential",-1
+"GT",2020-03-06,"residential",-1
+"GT",2020-03-05,"residential",0
+"GT",2020-03-04,"residential",0
+"GT",2020-03-03,"residential",0
+"GT",2020-03-02,"residential",-1
+"GT",2020-03-01,"residential",-1
+"GT",2020-02-29,"residential",-2
+"GT",2020-02-28,"residential",-2
+"GT",2020-02-27,"residential",-1
+"GT",2020-02-26,"residential",0
+"GT",2020-02-25,"residential",0
+"GT",2020-02-24,"residential",0
+"GT",2020-02-23,"residential",0
+"GT",2020-02-22,"residential",0
+"GT",2020-02-21,"residential",-1
+"GT",2020-02-20,"residential",0
+"GT",2020-02-19,"residential",0
+"GT",2020-02-18,"residential",0
+"GT",2020-02-17,"residential",0
+"GT",2020-02-16,"residential",0
+"GT",2020-04-05,"retail and recreation",-63
+"GT",2020-04-04,"retail and recreation",-59
+"GT",2020-04-03,"retail and recreation",-56
+"GT",2020-04-02,"retail and recreation",-56
+"GT",2020-04-01,"retail and recreation",-54
+"GT",2020-03-31,"retail and recreation",-54
+"GT",2020-03-30,"retail and recreation",-57
+"GT",2020-03-29,"retail and recreation",-67
+"GT",2020-03-28,"retail and recreation",-65
+"GT",2020-03-27,"retail and recreation",-65
+"GT",2020-03-26,"retail and recreation",-66
+"GT",2020-03-25,"retail and recreation",-67
+"GT",2020-03-24,"retail and recreation",-68
+"GT",2020-03-23,"retail and recreation",-68
+"GT",2020-03-22,"retail and recreation",-75
+"GT",2020-03-21,"retail and recreation",-69
+"GT",2020-03-20,"retail and recreation",-61
+"GT",2020-03-19,"retail and recreation",-57
+"GT",2020-03-18,"retail and recreation",-55
+"GT",2020-03-17,"retail and recreation",-48
+"GT",2020-03-16,"retail and recreation",-23
+"GT",2020-03-15,"retail and recreation",-15
+"GT",2020-03-14,"retail and recreation",-6
+"GT",2020-03-13,"retail and recreation",2
+"GT",2020-03-12,"retail and recreation",0
+"GT",2020-03-11,"retail and recreation",-2
+"GT",2020-03-10,"retail and recreation",-2
+"GT",2020-03-09,"retail and recreation",-4
+"GT",2020-03-08,"retail and recreation",0
+"GT",2020-03-07,"retail and recreation",3
+"GT",2020-03-06,"retail and recreation",2
+"GT",2020-03-05,"retail and recreation",2
+"GT",2020-03-04,"retail and recreation",2
+"GT",2020-03-03,"retail and recreation",2
+"GT",2020-03-02,"retail and recreation",1
+"GT",2020-03-01,"retail and recreation",3
+"GT",2020-02-29,"retail and recreation",8
+"GT",2020-02-28,"retail and recreation",7
+"GT",2020-02-27,"retail and recreation",3
+"GT",2020-02-26,"retail and recreation",-1
+"GT",2020-02-25,"retail and recreation",-3
+"GT",2020-02-24,"retail and recreation",-4
+"GT",2020-02-23,"retail and recreation",-5
+"GT",2020-02-22,"retail and recreation",0
+"GT",2020-02-21,"retail and recreation",-1
+"GT",2020-02-20,"retail and recreation",-1
+"GT",2020-02-19,"retail and recreation",-2
+"GT",2020-02-18,"retail and recreation",0
+"GT",2020-02-17,"retail and recreation",0
+"GT",2020-02-16,"retail and recreation",-2
+"GT",2020-04-05,"transit stations",-64
+"GT",2020-04-04,"transit stations",-66
+"GT",2020-04-03,"transit stations",-68
+"GT",2020-04-02,"transit stations",-68
+"GT",2020-04-01,"transit stations",-66
+"GT",2020-03-31,"transit stations",-67
+"GT",2020-03-30,"transit stations",-69
+"GT",2020-03-29,"transit stations",-69
+"GT",2020-03-28,"transit stations",-71
+"GT",2020-03-27,"transit stations",-74
+"GT",2020-03-26,"transit stations",-75
+"GT",2020-03-25,"transit stations",-75
+"GT",2020-03-24,"transit stations",-76
+"GT",2020-03-23,"transit stations",-76
+"GT",2020-03-22,"transit stations",-76
+"GT",2020-03-21,"transit stations",-74
+"GT",2020-03-20,"transit stations",-71
+"GT",2020-03-19,"transit stations",-68
+"GT",2020-03-18,"transit stations",-64
+"GT",2020-03-17,"transit stations",-57
+"GT",2020-03-16,"transit stations",-29
+"GT",2020-03-15,"transit stations",-15
+"GT",2020-03-14,"transit stations",-8
+"GT",2020-03-13,"transit stations",-5
+"GT",2020-03-12,"transit stations",-4
+"GT",2020-03-11,"transit stations",-3
+"GT",2020-03-10,"transit stations",-5
+"GT",2020-03-09,"transit stations",-6
+"GT",2020-03-08,"transit stations",-2
+"GT",2020-03-07,"transit stations",1
+"GT",2020-03-06,"transit stations",-1
+"GT",2020-03-05,"transit stations",-1
+"GT",2020-03-04,"transit stations",1
+"GT",2020-03-03,"transit stations",0
+"GT",2020-03-02,"transit stations",-2
+"GT",2020-03-01,"transit stations",0
+"GT",2020-02-29,"transit stations",6
+"GT",2020-02-28,"transit stations",4
+"GT",2020-02-27,"transit stations",-2
+"GT",2020-02-26,"transit stations",-1
+"GT",2020-02-25,"transit stations",-3
+"GT",2020-02-24,"transit stations",-5
+"GT",2020-02-23,"transit stations",-4
+"GT",2020-02-22,"transit stations",1
+"GT",2020-02-21,"transit stations",0
+"GT",2020-02-20,"transit stations",-3
+"GT",2020-02-19,"transit stations",-1
+"GT",2020-02-18,"transit stations",0
+"GT",2020-02-17,"transit stations",-2
+"GT",2020-02-16,"transit stations",-2
+"GT",2020-04-05,"workplaces",-33
+"GT",2020-04-04,"workplaces",-34
+"GT",2020-04-03,"workplaces",-48
+"GT",2020-04-02,"workplaces",-50
+"GT",2020-04-01,"workplaces",-49
+"GT",2020-03-31,"workplaces",-50
+"GT",2020-03-30,"workplaces",-51
+"GT",2020-03-29,"workplaces",-39
+"GT",2020-03-28,"workplaces",-43
+"GT",2020-03-27,"workplaces",-56
+"GT",2020-03-26,"workplaces",-59
+"GT",2020-03-25,"workplaces",-59
+"GT",2020-03-24,"workplaces",-60
+"GT",2020-03-23,"workplaces",-59
+"GT",2020-03-22,"workplaces",-50
+"GT",2020-03-21,"workplaces",-45
+"GT",2020-03-20,"workplaces",-48
+"GT",2020-03-19,"workplaces",-47
+"GT",2020-03-18,"workplaces",-46
+"GT",2020-03-17,"workplaces",-40
+"GT",2020-03-16,"workplaces",-20
+"GT",2020-03-15,"workplaces",-6
+"GT",2020-03-14,"workplaces",1
+"GT",2020-03-13,"workplaces",4
+"GT",2020-03-12,"workplaces",4
+"GT",2020-03-11,"workplaces",4
+"GT",2020-03-10,"workplaces",4
+"GT",2020-03-09,"workplaces",4
+"GT",2020-03-08,"workplaces",3
+"GT",2020-03-07,"workplaces",3
+"GT",2020-03-06,"workplaces",5
+"GT",2020-03-05,"workplaces",5
+"GT",2020-03-04,"workplaces",4
+"GT",2020-03-03,"workplaces",5
+"GT",2020-03-02,"workplaces",5
+"GT",2020-03-01,"workplaces",5
+"GT",2020-02-29,"workplaces",4
+"GT",2020-02-28,"workplaces",5
+"GT",2020-02-27,"workplaces",4
+"GT",2020-02-26,"workplaces",3
+"GT",2020-02-25,"workplaces",3
+"GT",2020-02-24,"workplaces",4
+"GT",2020-02-23,"workplaces",4
+"GT",2020-02-22,"workplaces",1
+"GT",2020-02-21,"workplaces",3
+"GT",2020-02-20,"workplaces",4
+"GT",2020-02-19,"workplaces",3
+"GT",2020-02-18,"workplaces",3
+"GT",2020-02-17,"workplaces",4
+"GT",2020-02-16,"workplaces",4
+"HN",2020-04-05,"grocery and pharmacy",-83
+"HN",2020-04-04,"grocery and pharmacy",-83
+"HN",2020-04-03,"grocery and pharmacy",-34
+"HN",2020-04-02,"grocery and pharmacy",-79
+"HN",2020-04-01,"grocery and pharmacy",-44
+"HN",2020-03-31,"grocery and pharmacy",-75
+"HN",2020-03-30,"grocery and pharmacy",-51
+"HN",2020-03-29,"grocery and pharmacy",-64
+"HN",2020-03-28,"grocery and pharmacy",-63
+"HN",2020-03-27,"grocery and pharmacy",-52
+"HN",2020-03-26,"grocery and pharmacy",-59
+"HN",2020-03-25,"grocery and pharmacy",-53
+"HN",2020-03-24,"grocery and pharmacy",-65
+"HN",2020-03-23,"grocery and pharmacy",-64
+"HN",2020-03-22,"grocery and pharmacy",-72
+"HN",2020-03-21,"grocery and pharmacy",-72
+"HN",2020-03-20,"grocery and pharmacy",-70
+"HN",2020-03-19,"grocery and pharmacy",-50
+"HN",2020-03-18,"grocery and pharmacy",-52
+"HN",2020-03-17,"grocery and pharmacy",-41
+"HN",2020-03-16,"grocery and pharmacy",-2
+"HN",2020-03-15,"grocery and pharmacy",7
+"HN",2020-03-14,"grocery and pharmacy",8
+"HN",2020-03-13,"grocery and pharmacy",9
+"HN",2020-03-12,"grocery and pharmacy",9
+"HN",2020-03-11,"grocery and pharmacy",14
+"HN",2020-03-10,"grocery and pharmacy",8
+"HN",2020-03-09,"grocery and pharmacy",2
+"HN",2020-03-08,"grocery and pharmacy",1
+"HN",2020-03-07,"grocery and pharmacy",1
+"HN",2020-03-06,"grocery and pharmacy",2
+"HN",2020-03-05,"grocery and pharmacy",3
+"HN",2020-03-04,"grocery and pharmacy",3
+"HN",2020-03-03,"grocery and pharmacy",5
+"HN",2020-03-02,"grocery and pharmacy",7
+"HN",2020-03-01,"grocery and pharmacy",8
+"HN",2020-02-29,"grocery and pharmacy",8
+"HN",2020-02-28,"grocery and pharmacy",4
+"HN",2020-02-27,"grocery and pharmacy",-2
+"HN",2020-02-26,"grocery and pharmacy",-5
+"HN",2020-02-25,"grocery and pharmacy",-2
+"HN",2020-02-24,"grocery and pharmacy",1
+"HN",2020-02-23,"grocery and pharmacy",0
+"HN",2020-02-22,"grocery and pharmacy",-1
+"HN",2020-02-21,"grocery and pharmacy",-1
+"HN",2020-02-20,"grocery and pharmacy",0
+"HN",2020-02-19,"grocery and pharmacy",-1
+"HN",2020-02-18,"grocery and pharmacy",0
+"HN",2020-02-17,"grocery and pharmacy",2
+"HN",2020-02-16,"grocery and pharmacy",5
+"HN",2020-04-05,"parks",-66
+"HN",2020-04-04,"parks",-70
+"HN",2020-04-03,"parks",-46
+"HN",2020-04-02,"parks",-65
+"HN",2020-04-01,"parks",-49
+"HN",2020-03-31,"parks",-62
+"HN",2020-03-30,"parks",-53
+"HN",2020-03-29,"parks",-59
+"HN",2020-03-28,"parks",-62
+"HN",2020-03-27,"parks",-52
+"HN",2020-03-26,"parks",-54
+"HN",2020-03-25,"parks",-47
+"HN",2020-03-24,"parks",-57
+"HN",2020-03-23,"parks",-57
+"HN",2020-03-22,"parks",-62
+"HN",2020-03-21,"parks",-64
+"HN",2020-03-20,"parks",-61
+"HN",2020-03-19,"parks",-51
+"HN",2020-03-18,"parks",-47
+"HN",2020-03-17,"parks",-44
+"HN",2020-03-16,"parks",-27
+"HN",2020-03-15,"parks",-17
+"HN",2020-03-14,"parks",-12
+"HN",2020-03-13,"parks",-8
+"HN",2020-03-12,"parks",-5
+"HN",2020-03-11,"parks",-2
+"HN",2020-03-10,"parks",-3
+"HN",2020-03-09,"parks",-4
+"HN",2020-03-08,"parks",-7
+"HN",2020-03-07,"parks",-8
+"HN",2020-03-06,"parks",-5
+"HN",2020-03-05,"parks",-1
+"HN",2020-03-04,"parks",1
+"HN",2020-03-03,"parks",1
+"HN",2020-03-02,"parks",0
+"HN",2020-03-01,"parks",-2
+"HN",2020-02-29,"parks",-6
+"HN",2020-02-28,"parks",-12
+"HN",2020-02-27,"parks",-13
+"HN",2020-02-26,"parks",-8
+"HN",2020-02-25,"parks",0
+"HN",2020-02-24,"parks",-3
+"HN",2020-02-23,"parks",-4
+"HN",2020-02-22,"parks",-7
+"HN",2020-02-21,"parks",-8
+"HN",2020-02-20,"parks",-3
+"HN",2020-02-19,"parks",0
+"HN",2020-02-18,"parks",1
+"HN",2020-02-17,"parks",-1
+"HN",2020-02-16,"parks",1
+"HN",2020-04-05,"residential",22
+"HN",2020-04-04,"residential",30
+"HN",2020-04-03,"residential",26
+"HN",2020-04-02,"residential",32
+"HN",2020-04-01,"residential",27
+"HN",2020-03-31,"residential",30
+"HN",2020-03-30,"residential",27
+"HN",2020-03-29,"residential",20
+"HN",2020-03-28,"residential",27
+"HN",2020-03-27,"residential",29
+"HN",2020-03-26,"residential",29
+"HN",2020-03-25,"residential",27
+"HN",2020-03-24,"residential",29
+"HN",2020-03-23,"residential",29
+"HN",2020-03-22,"residential",22
+"HN",2020-03-21,"residential",27
+"HN",2020-03-20,"residential",31
+"HN",2020-03-19,"residential",28
+"HN",2020-03-18,"residential",28
+"HN",2020-03-17,"residential",25
+"HN",2020-03-16,"residential",15
+"HN",2020-03-15,"residential",6
+"HN",2020-03-14,"residential",3
+"HN",2020-03-13,"residential",2
+"HN",2020-03-12,"residential",1
+"HN",2020-03-11,"residential",0
+"HN",2020-03-10,"residential",-1
+"HN",2020-03-09,"residential",-1
+"HN",2020-03-08,"residential",0
+"HN",2020-03-07,"residential",1
+"HN",2020-03-06,"residential",0
+"HN",2020-03-05,"residential",-2
+"HN",2020-03-04,"residential",-2
+"HN",2020-03-03,"residential",-2
+"HN",2020-03-02,"residential",-2
+"HN",2020-03-01,"residential",-1
+"HN",2020-02-29,"residential",1
+"HN",2020-02-28,"residential",1
+"HN",2020-02-27,"residential",0
+"HN",2020-02-26,"residential",0
+"HN",2020-02-25,"residential",-2
+"HN",2020-02-24,"residential",-2
+"HN",2020-02-23,"residential",-1
+"HN",2020-02-22,"residential",1
+"HN",2020-02-21,"residential",1
+"HN",2020-02-20,"residential",-2
+"HN",2020-02-19,"residential",-1
+"HN",2020-02-18,"residential",-1
+"HN",2020-02-17,"residential",-2
+"HN",2020-02-16,"residential",-2
+"HN",2020-04-05,"retail and recreation",-88
+"HN",2020-04-04,"retail and recreation",-89
+"HN",2020-04-03,"retail and recreation",-70
+"HN",2020-04-02,"retail and recreation",-87
+"HN",2020-04-01,"retail and recreation",-74
+"HN",2020-03-31,"retail and recreation",-86
+"HN",2020-03-30,"retail and recreation",-77
+"HN",2020-03-29,"retail and recreation",-81
+"HN",2020-03-28,"retail and recreation",-81
+"HN",2020-03-27,"retail and recreation",-76
+"HN",2020-03-26,"retail and recreation",-79
+"HN",2020-03-25,"retail and recreation",-75
+"HN",2020-03-24,"retail and recreation",-82
+"HN",2020-03-23,"retail and recreation",-82
+"HN",2020-03-22,"retail and recreation",-84
+"HN",2020-03-21,"retail and recreation",-86
+"HN",2020-03-20,"retail and recreation",-85
+"HN",2020-03-19,"retail and recreation",-78
+"HN",2020-03-18,"retail and recreation",-78
+"HN",2020-03-17,"retail and recreation",-73
+"HN",2020-03-16,"retail and recreation",-53
+"HN",2020-03-15,"retail and recreation",-30
+"HN",2020-03-14,"retail and recreation",-16
+"HN",2020-03-13,"retail and recreation",-9
+"HN",2020-03-12,"retail and recreation",-8
+"HN",2020-03-11,"retail and recreation",-6
+"HN",2020-03-10,"retail and recreation",-5
+"HN",2020-03-09,"retail and recreation",-5
+"HN",2020-03-08,"retail and recreation",-5
+"HN",2020-03-07,"retail and recreation",-4
+"HN",2020-03-06,"retail and recreation",-2
+"HN",2020-03-05,"retail and recreation",-1
+"HN",2020-03-04,"retail and recreation",-1
+"HN",2020-03-03,"retail and recreation",0
+"HN",2020-03-02,"retail and recreation",0
+"HN",2020-03-01,"retail and recreation",0
+"HN",2020-02-29,"retail and recreation",2
+"HN",2020-02-28,"retail and recreation",-2
+"HN",2020-02-27,"retail and recreation",-6
+"HN",2020-02-26,"retail and recreation",-8
+"HN",2020-02-25,"retail and recreation",-5
+"HN",2020-02-24,"retail and recreation",-5
+"HN",2020-02-23,"retail and recreation",-5
+"HN",2020-02-22,"retail and recreation",-5
+"HN",2020-02-21,"retail and recreation",-5
+"HN",2020-02-20,"retail and recreation",-3
+"HN",2020-02-19,"retail and recreation",-4
+"HN",2020-02-18,"retail and recreation",-5
+"HN",2020-02-17,"retail and recreation",-2
+"HN",2020-02-16,"retail and recreation",-1
+"HN",2020-04-05,"transit stations",-84
+"HN",2020-04-04,"transit stations",-83
+"HN",2020-04-03,"transit stations",-63
+"HN",2020-04-02,"transit stations",-81
+"HN",2020-04-01,"transit stations",-66
+"HN",2020-03-31,"transit stations",-78
+"HN",2020-03-30,"transit stations",-69
+"HN",2020-03-29,"transit stations",-74
+"HN",2020-03-28,"transit stations",-75
+"HN",2020-03-27,"transit stations",-67
+"HN",2020-03-26,"transit stations",-71
+"HN",2020-03-25,"transit stations",-65
+"HN",2020-03-24,"transit stations",-76
+"HN",2020-03-23,"transit stations",-75
+"HN",2020-03-22,"transit stations",-79
+"HN",2020-03-21,"transit stations",-80
+"HN",2020-03-20,"transit stations",-80
+"HN",2020-03-19,"transit stations",-71
+"HN",2020-03-18,"transit stations",-70
+"HN",2020-03-17,"transit stations",-69
+"HN",2020-03-16,"transit stations",-46
+"HN",2020-03-15,"transit stations",-25
+"HN",2020-03-14,"transit stations",-12
+"HN",2020-03-13,"transit stations",-7
+"HN",2020-03-12,"transit stations",-6
+"HN",2020-03-11,"transit stations",-5
+"HN",2020-03-10,"transit stations",-5
+"HN",2020-03-09,"transit stations",-4
+"HN",2020-03-08,"transit stations",-5
+"HN",2020-03-07,"transit stations",-4
+"HN",2020-03-06,"transit stations",-1
+"HN",2020-03-05,"transit stations",-1
+"HN",2020-03-04,"transit stations",-2
+"HN",2020-03-03,"transit stations",-3
+"HN",2020-03-02,"transit stations",-3
+"HN",2020-03-01,"transit stations",-2
+"HN",2020-02-29,"transit stations",-4
+"HN",2020-02-28,"transit stations",-7
+"HN",2020-02-27,"transit stations",-8
+"HN",2020-02-26,"transit stations",-6
+"HN",2020-02-25,"transit stations",-5
+"HN",2020-02-24,"transit stations",-5
+"HN",2020-02-23,"transit stations",-5
+"HN",2020-02-22,"transit stations",-6
+"HN",2020-02-21,"transit stations",-3
+"HN",2020-02-20,"transit stations",-2
+"HN",2020-02-19,"transit stations",-3
+"HN",2020-02-18,"transit stations",-3
+"HN",2020-02-17,"transit stations",-3
+"HN",2020-02-16,"transit stations",0
+"HN",2020-04-05,"workplaces",-56
+"HN",2020-04-04,"workplaces",-69
+"HN",2020-04-03,"workplaces",-64
+"HN",2020-04-02,"workplaces",-76
+"HN",2020-04-01,"workplaces",-67
+"HN",2020-03-31,"workplaces",-74
+"HN",2020-03-30,"workplaces",-67
+"HN",2020-03-29,"workplaces",-46
+"HN",2020-03-28,"workplaces",-63
+"HN",2020-03-27,"workplaces",-66
+"HN",2020-03-26,"workplaces",-70
+"HN",2020-03-25,"workplaces",-69
+"HN",2020-03-24,"workplaces",-73
+"HN",2020-03-23,"workplaces",-72
+"HN",2020-03-22,"workplaces",-56
+"HN",2020-03-21,"workplaces",-66
+"HN",2020-03-20,"workplaces",-73
+"HN",2020-03-19,"workplaces",-71
+"HN",2020-03-18,"workplaces",-71
+"HN",2020-03-17,"workplaces",-66
+"HN",2020-03-16,"workplaces",-43
+"HN",2020-03-15,"workplaces",-15
+"HN",2020-03-14,"workplaces",-3
+"HN",2020-03-13,"workplaces",1
+"HN",2020-03-12,"workplaces",5
+"HN",2020-03-11,"workplaces",8
+"HN",2020-03-10,"workplaces",10
+"HN",2020-03-09,"workplaces",11
+"HN",2020-03-08,"workplaces",5
+"HN",2020-03-07,"workplaces",1
+"HN",2020-03-06,"workplaces",8
+"HN",2020-03-05,"workplaces",11
+"HN",2020-03-04,"workplaces",10
+"HN",2020-03-03,"workplaces",11
+"HN",2020-03-02,"workplaces",12
+"HN",2020-03-01,"workplaces",9
+"HN",2020-02-29,"workplaces",3
+"HN",2020-02-28,"workplaces",5
+"HN",2020-02-27,"workplaces",9
+"HN",2020-02-26,"workplaces",7
+"HN",2020-02-25,"workplaces",9
+"HN",2020-02-24,"workplaces",11
+"HN",2020-02-23,"workplaces",9
+"HN",2020-02-22,"workplaces",1
+"HN",2020-02-21,"workplaces",3
+"HN",2020-02-20,"workplaces",10
+"HN",2020-02-19,"workplaces",8
+"HN",2020-02-18,"workplaces",8
+"HN",2020-02-17,"workplaces",10
+"HN",2020-02-16,"workplaces",10
+"NI",2020-04-05,"grocery and pharmacy",-20
+"NI",2020-04-04,"grocery and pharmacy",-13
+"NI",2020-04-03,"grocery and pharmacy",-12
+"NI",2020-04-02,"grocery and pharmacy",-16
+"NI",2020-04-01,"grocery and pharmacy",-16
+"NI",2020-03-31,"grocery and pharmacy",-15
+"NI",2020-03-30,"grocery and pharmacy",-16
+"NI",2020-03-29,"grocery and pharmacy",-25
+"NI",2020-03-28,"grocery and pharmacy",-20
+"NI",2020-03-27,"grocery and pharmacy",-21
+"NI",2020-03-26,"grocery and pharmacy",-24
+"NI",2020-03-25,"grocery and pharmacy",-22
+"NI",2020-03-24,"grocery and pharmacy",-19
+"NI",2020-03-23,"grocery and pharmacy",-15
+"NI",2020-03-22,"grocery and pharmacy",-21
+"NI",2020-03-21,"grocery and pharmacy",-14
+"NI",2020-03-20,"grocery and pharmacy",-5
+"NI",2020-03-19,"grocery and pharmacy",7
+"NI",2020-03-18,"grocery and pharmacy",5
+"NI",2020-03-17,"grocery and pharmacy",6
+"NI",2020-03-16,"grocery and pharmacy",9
+"NI",2020-03-15,"grocery and pharmacy",10
+"NI",2020-03-14,"grocery and pharmacy",10
+"NI",2020-03-13,"grocery and pharmacy",7
+"NI",2020-03-12,"grocery and pharmacy",3
+"NI",2020-03-11,"grocery and pharmacy",0
+"NI",2020-03-10,"grocery and pharmacy",1
+"NI",2020-03-09,"grocery and pharmacy",2
+"NI",2020-03-08,"grocery and pharmacy",3
+"NI",2020-03-07,"grocery and pharmacy",4
+"NI",2020-03-06,"grocery and pharmacy",4
+"NI",2020-03-05,"grocery and pharmacy",3
+"NI",2020-03-04,"grocery and pharmacy",0
+"NI",2020-03-03,"grocery and pharmacy",0
+"NI",2020-03-02,"grocery and pharmacy",3
+"NI",2020-03-01,"grocery and pharmacy",6
+"NI",2020-02-29,"grocery and pharmacy",7
+"NI",2020-02-28,"grocery and pharmacy",5
+"NI",2020-02-27,"grocery and pharmacy",0
+"NI",2020-02-26,"grocery and pharmacy",-5
+"NI",2020-02-25,"grocery and pharmacy",-5
+"NI",2020-02-24,"grocery and pharmacy",-2
+"NI",2020-02-23,"grocery and pharmacy",0
+"NI",2020-02-22,"grocery and pharmacy",0
+"NI",2020-02-21,"grocery and pharmacy",0
+"NI",2020-02-20,"grocery and pharmacy",0
+"NI",2020-02-19,"grocery and pharmacy",-3
+"NI",2020-02-18,"grocery and pharmacy",-4
+"NI",2020-02-17,"grocery and pharmacy",1
+"NI",2020-02-16,"grocery and pharmacy",5
+"NI",2020-04-05,"parks",-25
+"NI",2020-04-04,"parks",-20
+"NI",2020-04-03,"parks",-16
+"NI",2020-04-02,"parks",-17
+"NI",2020-04-01,"parks",-18
+"NI",2020-03-31,"parks",-18
+"NI",2020-03-30,"parks",-20
+"NI",2020-03-29,"parks",-31
+"NI",2020-03-28,"parks",-28
+"NI",2020-03-27,"parks",-24
+"NI",2020-03-26,"parks",-23
+"NI",2020-03-25,"parks",-22
+"NI",2020-03-24,"parks",-21
+"NI",2020-03-23,"parks",-20
+"NI",2020-03-22,"parks",-31
+"NI",2020-03-21,"parks",-27
+"NI",2020-03-20,"parks",-18
+"NI",2020-03-19,"parks",-13
+"NI",2020-03-18,"parks",-6
+"NI",2020-03-17,"parks",-4
+"NI",2020-03-16,"parks",-2
+"NI",2020-03-15,"parks",-1
+"NI",2020-03-14,"parks",-1
+"NI",2020-03-13,"parks",-1
+"NI",2020-03-12,"parks",-2
+"NI",2020-03-11,"parks",-3
+"NI",2020-03-10,"parks",-3
+"NI",2020-03-09,"parks",-2
+"NI",2020-03-08,"parks",-2
+"NI",2020-03-07,"parks",0
+"NI",2020-03-06,"parks",1
+"NI",2020-03-05,"parks",1
+"NI",2020-03-04,"parks",1
+"NI",2020-03-03,"parks",-1
+"NI",2020-03-02,"parks",-1
+"NI",2020-03-01,"parks",-1
+"NI",2020-02-29,"parks",-1
+"NI",2020-02-28,"parks",1
+"NI",2020-02-27,"parks",-2
+"NI",2020-02-26,"parks",-2
+"NI",2020-02-25,"parks",0
+"NI",2020-02-24,"parks",-1
+"NI",2020-02-23,"parks",-2
+"NI",2020-02-22,"parks",-2
+"NI",2020-02-21,"parks",0
+"NI",2020-02-20,"parks",2
+"NI",2020-02-19,"parks",-1
+"NI",2020-02-18,"parks",-1
+"NI",2020-02-17,"parks",-1
+"NI",2020-02-16,"parks",1
+"NI",2020-04-05,"residential",9
+"NI",2020-04-04,"residential",10
+"NI",2020-04-03,"residential",9
+"NI",2020-04-02,"residential",10
+"NI",2020-04-01,"residential",9
+"NI",2020-03-31,"residential",8
+"NI",2020-03-30,"residential",9
+"NI",2020-03-29,"residential",11
+"NI",2020-03-28,"residential",11
+"NI",2020-03-27,"residential",11
+"NI",2020-03-26,"residential",11
+"NI",2020-03-25,"residential",10
+"NI",2020-03-24,"residential",9
+"NI",2020-03-23,"residential",8
+"NI",2020-03-22,"residential",10
+"NI",2020-03-21,"residential",10
+"NI",2020-03-20,"residential",6
+"NI",2020-03-19,"residential",4
+"NI",2020-03-18,"residential",1
+"NI",2020-03-17,"residential",0
+"NI",2020-03-16,"residential",-1
+"NI",2020-03-15,"residential",0
+"NI",2020-03-14,"residential",0
+"NI",2020-03-13,"residential",-1
+"NI",2020-03-12,"residential",-1
+"NI",2020-03-11,"residential",-1
+"NI",2020-03-10,"residential",-1
+"NI",2020-03-09,"residential",-1
+"NI",2020-03-08,"residential",0
+"NI",2020-03-07,"residential",0
+"NI",2020-03-06,"residential",-1
+"NI",2020-03-05,"residential",-1
+"NI",2020-03-04,"residential",-1
+"NI",2020-03-03,"residential",-1
+"NI",2020-03-02,"residential",-1
+"NI",2020-03-01,"residential",-1
+"NI",2020-02-29,"residential",0
+"NI",2020-02-28,"residential",-1
+"NI",2020-02-27,"residential",-1
+"NI",2020-02-26,"residential",0
+"NI",2020-02-25,"residential",-1
+"NI",2020-02-24,"residential",0
+"NI",2020-02-23,"residential",0
+"NI",2020-02-22,"residential",1
+"NI",2020-02-21,"residential",0
+"NI",2020-02-20,"residential",-1
+"NI",2020-02-19,"residential",0
+"NI",2020-02-18,"residential",-1
+"NI",2020-02-17,"residential",-1
+"NI",2020-02-16,"residential",-1
+"NI",2020-04-05,"retail and recreation",-40
+"NI",2020-04-04,"retail and recreation",-33
+"NI",2020-04-03,"retail and recreation",-27
+"NI",2020-04-02,"retail and recreation",-30
+"NI",2020-04-01,"retail and recreation",-29
+"NI",2020-03-31,"retail and recreation",-28
+"NI",2020-03-30,"retail and recreation",-29
+"NI",2020-03-29,"retail and recreation",-45
+"NI",2020-03-28,"retail and recreation",-40
+"NI",2020-03-27,"retail and recreation",-36
+"NI",2020-03-26,"retail and recreation",-36
+"NI",2020-03-25,"retail and recreation",-35
+"NI",2020-03-24,"retail and recreation",-33
+"NI",2020-03-23,"retail and recreation",-29
+"NI",2020-03-22,"retail and recreation",-42
+"NI",2020-03-21,"retail and recreation",-37
+"NI",2020-03-20,"retail and recreation",-25
+"NI",2020-03-19,"retail and recreation",-19
+"NI",2020-03-18,"retail and recreation",-11
+"NI",2020-03-17,"retail and recreation",-6
+"NI",2020-03-16,"retail and recreation",-3
+"NI",2020-03-15,"retail and recreation",-1
+"NI",2020-03-14,"retail and recreation",1
+"NI",2020-03-13,"retail and recreation",0
+"NI",2020-03-12,"retail and recreation",-3
+"NI",2020-03-11,"retail and recreation",-4
+"NI",2020-03-10,"retail and recreation",-3
+"NI",2020-03-09,"retail and recreation",-2
+"NI",2020-03-08,"retail and recreation",0
+"NI",2020-03-07,"retail and recreation",2
+"NI",2020-03-06,"retail and recreation",2
+"NI",2020-03-05,"retail and recreation",2
+"NI",2020-03-04,"retail and recreation",-1
+"NI",2020-03-03,"retail and recreation",-2
+"NI",2020-03-02,"retail and recreation",0
+"NI",2020-03-01,"retail and recreation",3
+"NI",2020-02-29,"retail and recreation",6
+"NI",2020-02-28,"retail and recreation",4
+"NI",2020-02-27,"retail and recreation",2
+"NI",2020-02-26,"retail and recreation",-3
+"NI",2020-02-25,"retail and recreation",-5
+"NI",2020-02-24,"retail and recreation",-3
+"NI",2020-02-23,"retail and recreation",-1
+"NI",2020-02-22,"retail and recreation",-1
+"NI",2020-02-21,"retail and recreation",0
+"NI",2020-02-20,"retail and recreation",1
+"NI",2020-02-19,"retail and recreation",-2
+"NI",2020-02-18,"retail and recreation",-4
+"NI",2020-02-17,"retail and recreation",0
+"NI",2020-02-16,"retail and recreation",2
+"NI",2020-04-05,"transit stations",-35
+"NI",2020-04-04,"transit stations",-28
+"NI",2020-04-03,"transit stations",-24
+"NI",2020-04-02,"transit stations",-25
+"NI",2020-04-01,"transit stations",-26
+"NI",2020-03-31,"transit stations",-28
+"NI",2020-03-30,"transit stations",-29
+"NI",2020-03-29,"transit stations",-38
+"NI",2020-03-28,"transit stations",-34
+"NI",2020-03-27,"transit stations",-30
+"NI",2020-03-26,"transit stations",-28
+"NI",2020-03-25,"transit stations",-27
+"NI",2020-03-24,"transit stations",-27
+"NI",2020-03-23,"transit stations",-25
+"NI",2020-03-22,"transit stations",-32
+"NI",2020-03-21,"transit stations",-27
+"NI",2020-03-20,"transit stations",-16
+"NI",2020-03-19,"transit stations",-10
+"NI",2020-03-18,"transit stations",-5
+"NI",2020-03-17,"transit stations",-4
+"NI",2020-03-16,"transit stations",-2
+"NI",2020-03-15,"transit stations",-1
+"NI",2020-03-14,"transit stations",0
+"NI",2020-03-13,"transit stations",0
+"NI",2020-03-12,"transit stations",0
+"NI",2020-03-11,"transit stations",-1
+"NI",2020-03-10,"transit stations",0
+"NI",2020-03-09,"transit stations",0
+"NI",2020-03-08,"transit stations",-2
+"NI",2020-03-07,"transit stations",-1
+"NI",2020-03-06,"transit stations",2
+"NI",2020-03-05,"transit stations",3
+"NI",2020-03-04,"transit stations",2
+"NI",2020-03-03,"transit stations",1
+"NI",2020-03-02,"transit stations",0
+"NI",2020-03-01,"transit stations",1
+"NI",2020-02-29,"transit stations",0
+"NI",2020-02-28,"transit stations",0
+"NI",2020-02-27,"transit stations",-1
+"NI",2020-02-26,"transit stations",-3
+"NI",2020-02-25,"transit stations",-2
+"NI",2020-02-24,"transit stations",-2
+"NI",2020-02-23,"transit stations",-1
+"NI",2020-02-22,"transit stations",-3
+"NI",2020-02-21,"transit stations",0
+"NI",2020-02-20,"transit stations",2
+"NI",2020-02-19,"transit stations",1
+"NI",2020-02-18,"transit stations",-2
+"NI",2020-02-17,"transit stations",-1
+"NI",2020-02-16,"transit stations",1
+"NI",2020-04-05,"workplaces",-16
+"NI",2020-04-04,"workplaces",-17
+"NI",2020-04-03,"workplaces",-14
+"NI",2020-04-02,"workplaces",-16
+"NI",2020-04-01,"workplaces",-16
+"NI",2020-03-31,"workplaces",-15
+"NI",2020-03-30,"workplaces",-13
+"NI",2020-03-29,"workplaces",-17
+"NI",2020-03-28,"workplaces",-17
+"NI",2020-03-27,"workplaces",-15
+"NI",2020-03-26,"workplaces",-16
+"NI",2020-03-25,"workplaces",-14
+"NI",2020-03-24,"workplaces",-13
+"NI",2020-03-23,"workplaces",-9
+"NI",2020-03-22,"workplaces",-12
+"NI",2020-03-21,"workplaces",-10
+"NI",2020-03-20,"workplaces",-2
+"NI",2020-03-19,"workplaces",3
+"NI",2020-03-18,"workplaces",10
+"NI",2020-03-17,"workplaces",13
+"NI",2020-03-16,"workplaces",15
+"NI",2020-03-15,"workplaces",7
+"NI",2020-03-14,"workplaces",4
+"NI",2020-03-13,"workplaces",12
+"NI",2020-03-12,"workplaces",15
+"NI",2020-03-11,"workplaces",14
+"NI",2020-03-10,"workplaces",15
+"NI",2020-03-09,"workplaces",17
+"NI",2020-03-08,"workplaces",9
+"NI",2020-03-07,"workplaces",4
+"NI",2020-03-06,"workplaces",10
+"NI",2020-03-05,"workplaces",15
+"NI",2020-03-04,"workplaces",13
+"NI",2020-03-03,"workplaces",13
+"NI",2020-03-02,"workplaces",15
+"NI",2020-03-01,"workplaces",11
+"NI",2020-02-29,"workplaces",4
+"NI",2020-02-28,"workplaces",9
+"NI",2020-02-27,"workplaces",13
+"NI",2020-02-26,"workplaces",11
+"NI",2020-02-25,"workplaces",12
+"NI",2020-02-24,"workplaces",12
+"NI",2020-02-23,"workplaces",12
+"NI",2020-02-22,"workplaces",1
+"NI",2020-02-21,"workplaces",6
+"NI",2020-02-20,"workplaces",13
+"NI",2020-02-19,"workplaces",10
+"NI",2020-02-18,"workplaces",10
+"NI",2020-02-17,"workplaces",11
+"NI",2020-02-16,"workplaces",12
+"SV",2020-04-05,"grocery and pharmacy",-58
+"SV",2020-04-04,"grocery and pharmacy",-52
+"SV",2020-04-03,"grocery and pharmacy",-46
+"SV",2020-04-02,"grocery and pharmacy",-45
+"SV",2020-04-01,"grocery and pharmacy",-43
+"SV",2020-03-31,"grocery and pharmacy",-43
+"SV",2020-03-30,"grocery and pharmacy",-45
+"SV",2020-03-29,"grocery and pharmacy",-62
+"SV",2020-03-28,"grocery and pharmacy",-56
+"SV",2020-03-27,"grocery and pharmacy",-47
+"SV",2020-03-26,"grocery and pharmacy",-50
+"SV",2020-03-25,"grocery and pharmacy",-52
+"SV",2020-03-24,"grocery and pharmacy",-54
+"SV",2020-03-23,"grocery and pharmacy",-50
+"SV",2020-03-22,"grocery and pharmacy",-57
+"SV",2020-03-21,"grocery and pharmacy",-27
+"SV",2020-03-20,"grocery and pharmacy",-15
+"SV",2020-03-19,"grocery and pharmacy",0
+"SV",2020-03-18,"grocery and pharmacy",-1
+"SV",2020-03-17,"grocery and pharmacy",3
+"SV",2020-03-16,"grocery and pharmacy",9
+"SV",2020-03-15,"grocery and pharmacy",5
+"SV",2020-03-14,"grocery and pharmacy",7
+"SV",2020-03-13,"grocery and pharmacy",11
+"SV",2020-03-12,"grocery and pharmacy",9
+"SV",2020-03-11,"grocery and pharmacy",11
+"SV",2020-03-10,"grocery and pharmacy",6
+"SV",2020-03-09,"grocery and pharmacy",1
+"SV",2020-03-08,"grocery and pharmacy",0
+"SV",2020-03-07,"grocery and pharmacy",0
+"SV",2020-03-06,"grocery and pharmacy",0
+"SV",2020-03-05,"grocery and pharmacy",0
+"SV",2020-03-04,"grocery and pharmacy",1
+"SV",2020-03-03,"grocery and pharmacy",3
+"SV",2020-03-02,"grocery and pharmacy",5
+"SV",2020-03-01,"grocery and pharmacy",7
+"SV",2020-02-29,"grocery and pharmacy",7
+"SV",2020-02-28,"grocery and pharmacy",6
+"SV",2020-02-27,"grocery and pharmacy",3
+"SV",2020-02-26,"grocery and pharmacy",-2
+"SV",2020-02-25,"grocery and pharmacy",-2
+"SV",2020-02-24,"grocery and pharmacy",-1
+"SV",2020-02-23,"grocery and pharmacy",1
+"SV",2020-02-22,"grocery and pharmacy",1
+"SV",2020-02-21,"grocery and pharmacy",1
+"SV",2020-02-20,"grocery and pharmacy",1
+"SV",2020-02-19,"grocery and pharmacy",-1
+"SV",2020-02-18,"grocery and pharmacy",0
+"SV",2020-02-17,"grocery and pharmacy",1
+"SV",2020-02-16,"grocery and pharmacy",4
+"SV",2020-04-05,"parks",-70
+"SV",2020-04-04,"parks",-68
+"SV",2020-04-03,"parks",-64
+"SV",2020-04-02,"parks",-62
+"SV",2020-04-01,"parks",-61
+"SV",2020-03-31,"parks",-61
+"SV",2020-03-30,"parks",-60
+"SV",2020-03-29,"parks",-72
+"SV",2020-03-28,"parks",-70
+"SV",2020-03-27,"parks",-67
+"SV",2020-03-26,"parks",-68
+"SV",2020-03-25,"parks",-67
+"SV",2020-03-24,"parks",-68
+"SV",2020-03-23,"parks",-67
+"SV",2020-03-22,"parks",-73
+"SV",2020-03-21,"parks",-55
+"SV",2020-03-20,"parks",-45
+"SV",2020-03-19,"parks",-37
+"SV",2020-03-18,"parks",-27
+"SV",2020-03-17,"parks",-23
+"SV",2020-03-16,"parks",-19
+"SV",2020-03-15,"parks",-20
+"SV",2020-03-14,"parks",-17
+"SV",2020-03-13,"parks",-12
+"SV",2020-03-12,"parks",-10
+"SV",2020-03-11,"parks",-3
+"SV",2020-03-10,"parks",-2
+"SV",2020-03-09,"parks",-4
+"SV",2020-03-08,"parks",-3
+"SV",2020-03-07,"parks",-3
+"SV",2020-03-06,"parks",-3
+"SV",2020-03-05,"parks",-3
+"SV",2020-03-04,"parks",-2
+"SV",2020-03-03,"parks",-1
+"SV",2020-03-02,"parks",-2
+"SV",2020-03-01,"parks",0
+"SV",2020-02-29,"parks",1
+"SV",2020-02-28,"parks",-2
+"SV",2020-02-27,"parks",-3
+"SV",2020-02-26,"parks",-1
+"SV",2020-02-25,"parks",1
+"SV",2020-02-24,"parks",-3
+"SV",2020-02-23,"parks",-3
+"SV",2020-02-22,"parks",-1
+"SV",2020-02-21,"parks",-3
+"SV",2020-02-20,"parks",-4
+"SV",2020-02-19,"parks",-3
+"SV",2020-02-18,"parks",-1
+"SV",2020-02-17,"parks",0
+"SV",2020-02-16,"parks",-2
+"SV",2020-04-05,"residential",22
+"SV",2020-04-04,"residential",28
+"SV",2020-04-03,"residential",33
+"SV",2020-04-02,"residential",32
+"SV",2020-04-01,"residential",32
+"SV",2020-03-31,"residential",31
+"SV",2020-03-30,"residential",32
+"SV",2020-03-29,"residential",23
+"SV",2020-03-28,"residential",28
+"SV",2020-03-27,"residential",34
+"SV",2020-03-26,"residential",34
+"SV",2020-03-25,"residential",34
+"SV",2020-03-24,"residential",34
+"SV",2020-03-23,"residential",34
+"SV",2020-03-22,"residential",24
+"SV",2020-03-21,"residential",20
+"SV",2020-03-20,"residential",21
+"SV",2020-03-19,"residential",18
+"SV",2020-03-18,"residential",13
+"SV",2020-03-17,"residential",10
+"SV",2020-03-16,"residential",8
+"SV",2020-03-15,"residential",6
+"SV",2020-03-14,"residential",5
+"SV",2020-03-13,"residential",4
+"SV",2020-03-12,"residential",4
+"SV",2020-03-11,"residential",1
+"SV",2020-03-10,"residential",-1
+"SV",2020-03-09,"residential",0
+"SV",2020-03-08,"residential",0
+"SV",2020-03-07,"residential",1
+"SV",2020-03-06,"residential",-1
+"SV",2020-03-05,"residential",-1
+"SV",2020-03-04,"residential",-1
+"SV",2020-03-03,"residential",-1
+"SV",2020-03-02,"residential",-1
+"SV",2020-03-01,"residential",-1
+"SV",2020-02-29,"residential",-1
+"SV",2020-02-28,"residential",-1
+"SV",2020-02-27,"residential",-1
+"SV",2020-02-26,"residential",0
+"SV",2020-02-25,"residential",-1
+"SV",2020-02-24,"residential",-1
+"SV",2020-02-23,"residential",0
+"SV",2020-02-22,"residential",0
+"SV",2020-02-21,"residential",0
+"SV",2020-02-20,"residential",-1
+"SV",2020-02-19,"residential",0
+"SV",2020-02-18,"residential",-1
+"SV",2020-02-17,"residential",-1
+"SV",2020-02-16,"residential",0
+"SV",2020-04-05,"retail and recreation",-78
+"SV",2020-04-04,"retail and recreation",-76
+"SV",2020-04-03,"retail and recreation",-72
+"SV",2020-04-02,"retail and recreation",-71
+"SV",2020-04-01,"retail and recreation",-70
+"SV",2020-03-31,"retail and recreation",-69
+"SV",2020-03-30,"retail and recreation",-69
+"SV",2020-03-29,"retail and recreation",-81
+"SV",2020-03-28,"retail and recreation",-79
+"SV",2020-03-27,"retail and recreation",-75
+"SV",2020-03-26,"retail and recreation",-77
+"SV",2020-03-25,"retail and recreation",-77
+"SV",2020-03-24,"retail and recreation",-78
+"SV",2020-03-23,"retail and recreation",-76
+"SV",2020-03-22,"retail and recreation",-82
+"SV",2020-03-21,"retail and recreation",-62
+"SV",2020-03-20,"retail and recreation",-52
+"SV",2020-03-19,"retail and recreation",-41
+"SV",2020-03-18,"retail and recreation",-33
+"SV",2020-03-17,"retail and recreation",-25
+"SV",2020-03-16,"retail and recreation",-18
+"SV",2020-03-15,"retail and recreation",-19
+"SV",2020-03-14,"retail and recreation",-14
+"SV",2020-03-13,"retail and recreation",-8
+"SV",2020-03-12,"retail and recreation",-7
+"SV",2020-03-11,"retail and recreation",-3
+"SV",2020-03-10,"retail and recreation",-1
+"SV",2020-03-09,"retail and recreation",-2
+"SV",2020-03-08,"retail and recreation",-1
+"SV",2020-03-07,"retail and recreation",-1
+"SV",2020-03-06,"retail and recreation",-1
+"SV",2020-03-05,"retail and recreation",0
+"SV",2020-03-04,"retail and recreation",1
+"SV",2020-03-03,"retail and recreation",2
+"SV",2020-03-02,"retail and recreation",3
+"SV",2020-03-01,"retail and recreation",4
+"SV",2020-02-29,"retail and recreation",6
+"SV",2020-02-28,"retail and recreation",4
+"SV",2020-02-27,"retail and recreation",2
+"SV",2020-02-26,"retail and recreation",-1
+"SV",2020-02-25,"retail and recreation",-1
+"SV",2020-02-24,"retail and recreation",0
+"SV",2020-02-23,"retail and recreation",-1
+"SV",2020-02-22,"retail and recreation",0
+"SV",2020-02-21,"retail and recreation",0
+"SV",2020-02-20,"retail and recreation",0
+"SV",2020-02-19,"retail and recreation",0
+"SV",2020-02-18,"retail and recreation",0
+"SV",2020-02-17,"retail and recreation",0
+"SV",2020-02-16,"retail and recreation",0
+"SV",2020-04-05,"transit stations",-70
+"SV",2020-04-04,"transit stations",-69
+"SV",2020-04-03,"transit stations",-66
+"SV",2020-04-02,"transit stations",-65
+"SV",2020-04-01,"transit stations",-63
+"SV",2020-03-31,"transit stations",-64
+"SV",2020-03-30,"transit stations",-64
+"SV",2020-03-29,"transit stations",-73
+"SV",2020-03-28,"transit stations",-71
+"SV",2020-03-27,"transit stations",-69
+"SV",2020-03-26,"transit stations",-70
+"SV",2020-03-25,"transit stations",-70
+"SV",2020-03-24,"transit stations",-70
+"SV",2020-03-23,"transit stations",-69
+"SV",2020-03-22,"transit stations",-73
+"SV",2020-03-21,"transit stations",-56
+"SV",2020-03-20,"transit stations",-49
+"SV",2020-03-19,"transit stations",-42
+"SV",2020-03-18,"transit stations",-33
+"SV",2020-03-17,"transit stations",-26
+"SV",2020-03-16,"transit stations",-23
+"SV",2020-03-15,"transit stations",-23
+"SV",2020-03-14,"transit stations",-19
+"SV",2020-03-13,"transit stations",-16
+"SV",2020-03-12,"transit stations",-14
+"SV",2020-03-11,"transit stations",-7
+"SV",2020-03-10,"transit stations",-2
+"SV",2020-03-09,"transit stations",-2
+"SV",2020-03-08,"transit stations",-4
+"SV",2020-03-07,"transit stations",-6
+"SV",2020-03-06,"transit stations",-4
+"SV",2020-03-05,"transit stations",-3
+"SV",2020-03-04,"transit stations",-3
+"SV",2020-03-03,"transit stations",-1
+"SV",2020-03-02,"transit stations",1
+"SV",2020-03-01,"transit stations",3
+"SV",2020-02-29,"transit stations",1
+"SV",2020-02-28,"transit stations",0
+"SV",2020-02-27,"transit stations",-1
+"SV",2020-02-26,"transit stations",-2
+"SV",2020-02-25,"transit stations",-1
+"SV",2020-02-24,"transit stations",-1
+"SV",2020-02-23,"transit stations",-1
+"SV",2020-02-22,"transit stations",-3
+"SV",2020-02-21,"transit stations",-2
+"SV",2020-02-20,"transit stations",2
+"SV",2020-02-19,"transit stations",3
+"SV",2020-02-18,"transit stations",2
+"SV",2020-02-17,"transit stations",3
+"SV",2020-02-16,"transit stations",1
+"SV",2020-04-05,"workplaces",-48
+"SV",2020-04-04,"workplaces",-57
+"SV",2020-04-03,"workplaces",-63
+"SV",2020-04-02,"workplaces",-65
+"SV",2020-04-01,"workplaces",-65
+"SV",2020-03-31,"workplaces",-64
+"SV",2020-03-30,"workplaces",-64
+"SV",2020-03-29,"workplaces",-50
+"SV",2020-03-28,"workplaces",-60
+"SV",2020-03-27,"workplaces",-65
+"SV",2020-03-26,"workplaces",-68
+"SV",2020-03-25,"workplaces",-68
+"SV",2020-03-24,"workplaces",-68
+"SV",2020-03-23,"workplaces",-66
+"SV",2020-03-22,"workplaces",-55
+"SV",2020-03-21,"workplaces",-39
+"SV",2020-03-20,"workplaces",-38
+"SV",2020-03-19,"workplaces",-33
+"SV",2020-03-18,"workplaces",-23
+"SV",2020-03-17,"workplaces",-17
+"SV",2020-03-16,"workplaces",-11
+"SV",2020-03-15,"workplaces",-5
+"SV",2020-03-14,"workplaces",-1
+"SV",2020-03-13,"workplaces",-1
+"SV",2020-03-12,"workplaces",-4
+"SV",2020-03-11,"workplaces",0
+"SV",2020-03-10,"workplaces",5
+"SV",2020-03-09,"workplaces",6
+"SV",2020-03-08,"workplaces",4
+"SV",2020-03-07,"workplaces",4
+"SV",2020-03-06,"workplaces",7
+"SV",2020-03-05,"workplaces",8
+"SV",2020-03-04,"workplaces",5
+"SV",2020-03-03,"workplaces",5
+"SV",2020-03-02,"workplaces",6
+"SV",2020-03-01,"workplaces",6
+"SV",2020-02-29,"workplaces",5
+"SV",2020-02-28,"workplaces",7
+"SV",2020-02-27,"workplaces",7
+"SV",2020-02-26,"workplaces",4
+"SV",2020-02-25,"workplaces",4
+"SV",2020-02-24,"workplaces",4
+"SV",2020-02-23,"workplaces",4
+"SV",2020-02-22,"workplaces",2
+"SV",2020-02-21,"workplaces",4
+"SV",2020-02-20,"workplaces",7
+"SV",2020-02-19,"workplaces",3
+"SV",2020-02-18,"workplaces",3
+"SV",2020-02-17,"workplaces",4
+"SV",2020-02-16,"workplaces",5
+"PA",2020-04-05,"grocery and pharmacy",-95
+"PA",2020-04-04,"grocery and pharmacy",-55
+"PA",2020-04-03,"grocery and pharmacy",-64
+"PA",2020-04-02,"grocery and pharmacy",-54
+"PA",2020-04-01,"grocery and pharmacy",-67
+"PA",2020-03-31,"grocery and pharmacy",-53
+"PA",2020-03-30,"grocery and pharmacy",-54
+"PA",2020-03-29,"grocery and pharmacy",-61
+"PA",2020-03-28,"grocery and pharmacy",-53
+"PA",2020-03-27,"grocery and pharmacy",-53
+"PA",2020-03-26,"grocery and pharmacy",-53
+"PA",2020-03-25,"grocery and pharmacy",-54
+"PA",2020-03-24,"grocery and pharmacy",-48
+"PA",2020-03-23,"grocery and pharmacy",-39
+"PA",2020-03-22,"grocery and pharmacy",-41
+"PA",2020-03-21,"grocery and pharmacy",-37
+"PA",2020-03-20,"grocery and pharmacy",-29
+"PA",2020-03-19,"grocery and pharmacy",-29
+"PA",2020-03-18,"grocery and pharmacy",-29
+"PA",2020-03-17,"grocery and pharmacy",-21
+"PA",2020-03-16,"grocery and pharmacy",-13
+"PA",2020-03-15,"grocery and pharmacy",-7
+"PA",2020-03-14,"grocery and pharmacy",0
+"PA",2020-03-13,"grocery and pharmacy",4
+"PA",2020-03-12,"grocery and pharmacy",6
+"PA",2020-03-11,"grocery and pharmacy",8
+"PA",2020-03-10,"grocery and pharmacy",12
+"PA",2020-03-09,"grocery and pharmacy",8
+"PA",2020-03-08,"grocery and pharmacy",6
+"PA",2020-03-07,"grocery and pharmacy",6
+"PA",2020-03-06,"grocery and pharmacy",1
+"PA",2020-03-05,"grocery and pharmacy",0
+"PA",2020-03-04,"grocery and pharmacy",4
+"PA",2020-03-03,"grocery and pharmacy",6
+"PA",2020-03-02,"grocery and pharmacy",9
+"PA",2020-03-01,"grocery and pharmacy",13
+"PA",2020-02-29,"grocery and pharmacy",19
+"PA",2020-02-28,"grocery and pharmacy",12
+"PA",2020-02-27,"grocery and pharmacy",5
+"PA",2020-02-26,"grocery and pharmacy",2
+"PA",2020-02-25,"grocery and pharmacy",-11
+"PA",2020-02-24,"grocery and pharmacy",-16
+"PA",2020-02-23,"grocery and pharmacy",-7
+"PA",2020-02-22,"grocery and pharmacy",2
+"PA",2020-02-21,"grocery and pharmacy",8
+"PA",2020-02-20,"grocery and pharmacy",10
+"PA",2020-02-19,"grocery and pharmacy",7
+"PA",2020-02-18,"grocery and pharmacy",2
+"PA",2020-02-17,"grocery and pharmacy",2
+"PA",2020-02-16,"grocery and pharmacy",5
+"PA",2020-04-05,"parks",-86
+"PA",2020-04-04,"parks",-75
+"PA",2020-04-03,"parks",-74
+"PA",2020-04-02,"parks",-70
+"PA",2020-04-01,"parks",-73
+"PA",2020-03-31,"parks",-69
+"PA",2020-03-30,"parks",-69
+"PA",2020-03-29,"parks",-78
+"PA",2020-03-28,"parks",-75
+"PA",2020-03-27,"parks",-71
+"PA",2020-03-26,"parks",-71
+"PA",2020-03-25,"parks",-71
+"PA",2020-03-24,"parks",-63
+"PA",2020-03-23,"parks",-56
+"PA",2020-03-22,"parks",-65
+"PA",2020-03-21,"parks",-62
+"PA",2020-03-20,"parks",-50
+"PA",2020-03-19,"parks",-46
+"PA",2020-03-18,"parks",-41
+"PA",2020-03-17,"parks",-37
+"PA",2020-03-16,"parks",-30
+"PA",2020-03-15,"parks",-39
+"PA",2020-03-14,"parks",-34
+"PA",2020-03-13,"parks",-23
+"PA",2020-03-12,"parks",-20
+"PA",2020-03-11,"parks",-17
+"PA",2020-03-10,"parks",-10
+"PA",2020-03-09,"parks",-5
+"PA",2020-03-08,"parks",-8
+"PA",2020-03-07,"parks",-9
+"PA",2020-03-06,"parks",-5
+"PA",2020-03-05,"parks",-3
+"PA",2020-03-04,"parks",-3
+"PA",2020-03-03,"parks",-2
+"PA",2020-03-02,"parks",-2
+"PA",2020-03-01,"parks",-6
+"PA",2020-02-29,"parks",-10
+"PA",2020-02-28,"parks",-6
+"PA",2020-02-27,"parks",-6
+"PA",2020-02-26,"parks",-6
+"PA",2020-02-25,"parks",2
+"PA",2020-02-24,"parks",38
+"PA",2020-02-23,"parks",52
+"PA",2020-02-22,"parks",31
+"PA",2020-02-21,"parks",13
+"PA",2020-02-20,"parks",6
+"PA",2020-02-19,"parks",0
+"PA",2020-02-18,"parks",0
+"PA",2020-02-17,"parks",2
+"PA",2020-02-16,"parks",0
+"PA",2020-04-05,"residential",36
+"PA",2020-04-04,"residential",37
+"PA",2020-04-03,"residential",45
+"PA",2020-04-02,"residential",41
+"PA",2020-04-01,"residential",42
+"PA",2020-03-31,"residential",39
+"PA",2020-03-30,"residential",39
+"PA",2020-03-29,"residential",31
+"PA",2020-03-28,"residential",36
+"PA",2020-03-27,"residential",43
+"PA",2020-03-26,"residential",41
+"PA",2020-03-25,"residential",40
+"PA",2020-03-24,"residential",34
+"PA",2020-03-23,"residential",31
+"PA",2020-03-22,"residential",26
+"PA",2020-03-21,"residential",27
+"PA",2020-03-20,"residential",26
+"PA",2020-03-19,"residential",25
+"PA",2020-03-18,"residential",23
+"PA",2020-03-17,"residential",19
+"PA",2020-03-16,"residential",15
+"PA",2020-03-15,"residential",14
+"PA",2020-03-14,"residential",12
+"PA",2020-03-13,"residential",10
+"PA",2020-03-12,"residential",8
+"PA",2020-03-11,"residential",6
+"PA",2020-03-10,"residential",2
+"PA",2020-03-09,"residential",0
+"PA",2020-03-08,"residential",1
+"PA",2020-03-07,"residential",2
+"PA",2020-03-06,"residential",0
+"PA",2020-03-05,"residential",-1
+"PA",2020-03-04,"residential",0
+"PA",2020-03-03,"residential",-1
+"PA",2020-03-02,"residential",-1
+"PA",2020-03-01,"residential",-1
+"PA",2020-02-29,"residential",0
+"PA",2020-02-28,"residential",-1
+"PA",2020-02-27,"residential",0
+"PA",2020-02-26,"residential",2
+"PA",2020-02-25,"residential",9
+"PA",2020-02-24,"residential",12
+"PA",2020-02-23,"residential",9
+"PA",2020-02-22,"residential",-1
+"PA",2020-02-21,"residential",0
+"PA",2020-02-20,"residential",-1
+"PA",2020-02-19,"residential",-2
+"PA",2020-02-18,"residential",-1
+"PA",2020-02-17,"residential",-1
+"PA",2020-02-16,"residential",-1
+"PA",2020-04-05,"retail and recreation",-95
+"PA",2020-04-04,"retail and recreation",-83
+"PA",2020-04-03,"retail and recreation",-85
+"PA",2020-04-02,"retail and recreation",-81
+"PA",2020-04-01,"retail and recreation",-85
+"PA",2020-03-31,"retail and recreation",-80
+"PA",2020-03-30,"retail and recreation",-80
+"PA",2020-03-29,"retail and recreation",-84
+"PA",2020-03-28,"retail and recreation",-82
+"PA",2020-03-27,"retail and recreation",-81
+"PA",2020-03-26,"retail and recreation",-81
+"PA",2020-03-25,"retail and recreation",-82
+"PA",2020-03-24,"retail and recreation",-71
+"PA",2020-03-23,"retail and recreation",-64
+"PA",2020-03-22,"retail and recreation",-68
+"PA",2020-03-21,"retail and recreation",-65
+"PA",2020-03-20,"retail and recreation",-53
+"PA",2020-03-19,"retail and recreation",-50
+"PA",2020-03-18,"retail and recreation",-47
+"PA",2020-03-17,"retail and recreation",-41
+"PA",2020-03-16,"retail and recreation",-32
+"PA",2020-03-15,"retail and recreation",-35
+"PA",2020-03-14,"retail and recreation",-27
+"PA",2020-03-13,"retail and recreation",-19
+"PA",2020-03-12,"retail and recreation",-17
+"PA",2020-03-11,"retail and recreation",-16
+"PA",2020-03-10,"retail and recreation",-10
+"PA",2020-03-09,"retail and recreation",-5
+"PA",2020-03-08,"retail and recreation",-1
+"PA",2020-03-07,"retail and recreation",2
+"PA",2020-03-06,"retail and recreation",0
+"PA",2020-03-05,"retail and recreation",-1
+"PA",2020-03-04,"retail and recreation",-1
+"PA",2020-03-03,"retail and recreation",-1
+"PA",2020-03-02,"retail and recreation",2
+"PA",2020-03-01,"retail and recreation",8
+"PA",2020-02-29,"retail and recreation",15
+"PA",2020-02-28,"retail and recreation",11
+"PA",2020-02-27,"retail and recreation",4
+"PA",2020-02-26,"retail and recreation",-2
+"PA",2020-02-25,"retail and recreation",-19
+"PA",2020-02-24,"retail and recreation",-32
+"PA",2020-02-23,"retail and recreation",-18
+"PA",2020-02-22,"retail and recreation",-8
+"PA",2020-02-21,"retail and recreation",-6
+"PA",2020-02-20,"retail and recreation",4
+"PA",2020-02-19,"retail and recreation",6
+"PA",2020-02-18,"retail and recreation",1
+"PA",2020-02-17,"retail and recreation",2
+"PA",2020-02-16,"retail and recreation",4
+"PA",2020-04-05,"transit stations",-89
+"PA",2020-04-04,"transit stations",-77
+"PA",2020-04-03,"transit stations",-79
+"PA",2020-04-02,"transit stations",-77
+"PA",2020-04-01,"transit stations",-79
+"PA",2020-03-31,"transit stations",-76
+"PA",2020-03-30,"transit stations",-76
+"PA",2020-03-29,"transit stations",-77
+"PA",2020-03-28,"transit stations",-76
+"PA",2020-03-27,"transit stations",-76
+"PA",2020-03-26,"transit stations",-76
+"PA",2020-03-25,"transit stations",-77
+"PA",2020-03-24,"transit stations",-68
+"PA",2020-03-23,"transit stations",-62
+"PA",2020-03-22,"transit stations",-60
+"PA",2020-03-21,"transit stations",-54
+"PA",2020-03-20,"transit stations",-47
+"PA",2020-03-19,"transit stations",-46
+"PA",2020-03-18,"transit stations",-40
+"PA",2020-03-17,"transit stations",-35
+"PA",2020-03-16,"transit stations",-27
+"PA",2020-03-15,"transit stations",-26
+"PA",2020-03-14,"transit stations",-21
+"PA",2020-03-13,"transit stations",-16
+"PA",2020-03-12,"transit stations",-16
+"PA",2020-03-11,"transit stations",-14
+"PA",2020-03-10,"transit stations",-6
+"PA",2020-03-09,"transit stations",0
+"PA",2020-03-08,"transit stations",2
+"PA",2020-03-07,"transit stations",2
+"PA",2020-03-06,"transit stations",3
+"PA",2020-03-05,"transit stations",4
+"PA",2020-03-04,"transit stations",4
+"PA",2020-03-03,"transit stations",5
+"PA",2020-03-02,"transit stations",5
+"PA",2020-03-01,"transit stations",7
+"PA",2020-02-29,"transit stations",10
+"PA",2020-02-28,"transit stations",6
+"PA",2020-02-27,"transit stations",1
+"PA",2020-02-26,"transit stations",-8
+"PA",2020-02-25,"transit stations",-26
+"PA",2020-02-24,"transit stations",-38
+"PA",2020-02-23,"transit stations",-31
+"PA",2020-02-22,"transit stations",-11
+"PA",2020-02-21,"transit stations",-7
+"PA",2020-02-20,"transit stations",6
+"PA",2020-02-19,"transit stations",4
+"PA",2020-02-18,"transit stations",4
+"PA",2020-02-17,"transit stations",3
+"PA",2020-02-16,"transit stations",5
+"PA",2020-04-05,"workplaces",-74
+"PA",2020-04-04,"workplaces",-70
+"PA",2020-04-03,"workplaces",-74
+"PA",2020-04-02,"workplaces",-74
+"PA",2020-04-01,"workplaces",-75
+"PA",2020-03-31,"workplaces",-73
+"PA",2020-03-30,"workplaces",-72
+"PA",2020-03-29,"workplaces",-59
+"PA",2020-03-28,"workplaces",-67
+"PA",2020-03-27,"workplaces",-72
+"PA",2020-03-26,"workplaces",-73
+"PA",2020-03-25,"workplaces",-72
+"PA",2020-03-24,"workplaces",-62
+"PA",2020-03-23,"workplaces",-55
+"PA",2020-03-22,"workplaces",-45
+"PA",2020-03-21,"workplaces",-43
+"PA",2020-03-20,"workplaces",-38
+"PA",2020-03-19,"workplaces",-37
+"PA",2020-03-18,"workplaces",-33
+"PA",2020-03-17,"workplaces",-29
+"PA",2020-03-16,"workplaces",-21
+"PA",2020-03-15,"workplaces",-14
+"PA",2020-03-14,"workplaces",-8
+"PA",2020-03-13,"workplaces",-5
+"PA",2020-03-12,"workplaces",-5
+"PA",2020-03-11,"workplaces",-2
+"PA",2020-03-10,"workplaces",3
+"PA",2020-03-09,"workplaces",6
+"PA",2020-03-08,"workplaces",5
+"PA",2020-03-07,"workplaces",4
+"PA",2020-03-06,"workplaces",7
+"PA",2020-03-05,"workplaces",8
+"PA",2020-03-04,"workplaces",7
+"PA",2020-03-03,"workplaces",6
+"PA",2020-03-02,"workplaces",6
+"PA",2020-03-01,"workplaces",6
+"PA",2020-02-29,"workplaces",6
+"PA",2020-02-28,"workplaces",4
+"PA",2020-02-27,"workplaces",0
+"PA",2020-02-26,"workplaces",-10
+"PA",2020-02-25,"workplaces",-43
+"PA",2020-02-24,"workplaces",-71
+"PA",2020-02-23,"workplaces",-54
+"PA",2020-02-22,"workplaces",-9
+"PA",2020-02-21,"workplaces",-11
+"PA",2020-02-20,"workplaces",3
+"PA",2020-02-19,"workplaces",4
+"PA",2020-02-18,"workplaces",4
+"PA",2020-02-17,"workplaces",3
+"PA",2020-02-16,"workplaces",5
+"BZ",2020-04-05,"grocery and pharmacy",-64
+"BZ",2020-04-04,"grocery and pharmacy",-51
+"BZ",2020-04-03,"grocery and pharmacy",-47
+"BZ",2020-04-02,"grocery and pharmacy",-50
+"BZ",2020-04-01,"grocery and pharmacy",-23
+"BZ",2020-03-31,"grocery and pharmacy",-20
+"BZ",2020-03-30,"grocery and pharmacy",-28
+"BZ",2020-03-29,"grocery and pharmacy",-49
+"BZ",2020-03-28,"grocery and pharmacy",-41
+"BZ",2020-03-27,"grocery and pharmacy",-34
+"BZ",2020-03-26,"grocery and pharmacy",-37
+"BZ",2020-03-25,"grocery and pharmacy",-13
+"BZ",2020-03-24,"grocery and pharmacy",-16
+"BZ",2020-03-23,"grocery and pharmacy",11
+"BZ",2020-03-22,"grocery and pharmacy",-9
+"BZ",2020-03-21,"grocery and pharmacy",17
+"BZ",2020-03-20,"grocery and pharmacy",30
+"BZ",2020-03-19,"grocery and pharmacy",20
+"BZ",2020-03-18,"grocery and pharmacy",9
+"BZ",2020-03-17,"grocery and pharmacy",7
+"BZ",2020-03-16,"grocery and pharmacy",9
+"BZ",2020-03-15,"grocery and pharmacy",7
+"BZ",2020-03-14,"grocery and pharmacy",16
+"BZ",2020-03-13,"grocery and pharmacy",25
+"BZ",2020-03-12,"grocery and pharmacy",25
+"BZ",2020-03-11,"grocery and pharmacy",14
+"BZ",2020-03-10,"grocery and pharmacy",6
+"BZ",2020-03-09,"grocery and pharmacy",-10
+"BZ",2020-03-08,"grocery and pharmacy",-10
+"BZ",2020-03-07,"grocery and pharmacy",4
+"BZ",2020-03-06,"grocery and pharmacy",3
+"BZ",2020-03-05,"grocery and pharmacy",4
+"BZ",2020-03-04,"grocery and pharmacy",5
+"BZ",2020-03-03,"grocery and pharmacy",1
+"BZ",2020-03-02,"grocery and pharmacy",0
+"BZ",2020-03-01,"grocery and pharmacy",2
+"BZ",2020-02-29,"grocery and pharmacy",5
+"BZ",2020-02-28,"grocery and pharmacy",6
+"BZ",2020-02-27,"grocery and pharmacy",4
+"BZ",2020-02-26,"grocery and pharmacy",4
+"BZ",2020-02-25,"grocery and pharmacy",0
+"BZ",2020-02-24,"grocery and pharmacy",0
+"BZ",2020-02-23,"grocery and pharmacy",-1
+"BZ",2020-02-22,"grocery and pharmacy",1
+"BZ",2020-02-21,"grocery and pharmacy",0
+"BZ",2020-02-20,"grocery and pharmacy",-1
+"BZ",2020-02-19,"grocery and pharmacy",0
+"BZ",2020-02-18,"grocery and pharmacy",-4
+"BZ",2020-02-17,"grocery and pharmacy",-1
+"BZ",2020-02-16,"grocery and pharmacy",-2
+"BZ",2020-04-05,"parks",-63
+"BZ",2020-04-04,"parks",-57
+"BZ",2020-04-03,"parks",-55
+"BZ",2020-04-02,"parks",-53
+"BZ",2020-04-01,"parks",-39
+"BZ",2020-03-31,"parks",-36
+"BZ",2020-03-30,"parks",-36
+"BZ",2020-03-29,"parks",-38
+"BZ",2020-03-28,"parks",-36
+"BZ",2020-03-27,"parks",-33
+"BZ",2020-03-26,"parks",-38
+"BZ",2020-03-25,"parks",-39
+"BZ",2020-03-24,"parks",-34
+"BZ",2020-03-23,"parks",-24
+"BZ",2020-03-22,"parks",-24
+"BZ",2020-03-21,"parks",-7
+"BZ",2020-03-20,"parks",-5
+"BZ",2020-03-19,"parks",-4
+"BZ",2020-03-18,"parks",-15
+"BZ",2020-03-17,"parks",-13
+"BZ",2020-03-16,"parks",-7
+"BZ",2020-03-15,"parks",0
+"BZ",2020-03-14,"parks",7
+"BZ",2020-03-13,"parks",11
+"BZ",2020-03-12,"parks",13
+"BZ",2020-03-11,"parks",12
+"BZ",2020-03-10,"parks",6
+"BZ",2020-03-09,"parks",7
+"BZ",2020-03-08,"parks",4
+"BZ",2020-03-07,"parks",12
+"BZ",2020-03-06,"parks",23
+"BZ",2020-03-05,"parks",19
+"BZ",2020-03-04,"parks",14
+"BZ",2020-03-03,"parks",6
+"BZ",2020-03-02,"parks",6
+"BZ",2020-03-01,"parks",9
+"BZ",2020-02-29,"parks",11
+"BZ",2020-02-28,"parks",21
+"BZ",2020-02-27,"parks",5
+"BZ",2020-02-26,"parks",-2
+"BZ",2020-02-25,"parks",2
+"BZ",2020-02-24,"parks",8
+"BZ",2020-02-23,"parks",6
+"BZ",2020-02-22,"parks",17
+"BZ",2020-02-21,"parks",9
+"BZ",2020-02-20,"parks",9
+"BZ",2020-02-19,"parks",28
+"BZ",2020-02-18,"parks",7
+"BZ",2020-02-17,"parks",12
+"BZ",2020-02-16,"parks",5
+"BZ",2020-04-04,"residential",22
+"BZ",2020-04-03,"residential",28
+"BZ",2020-04-02,"residential",26
+"BZ",2020-04-01,"residential",19
+"BZ",2020-03-31,"residential",18
+"BZ",2020-03-30,"residential",19
+"BZ",2020-03-29,"residential",13
+"BZ",2020-03-28,"residential",16
+"BZ",2020-03-27,"residential",21
+"BZ",2020-03-26,"residential",20
+"BZ",2020-03-25,"residential",18
+"BZ",2020-03-24,"residential",17
+"BZ",2020-03-23,"residential",11
+"BZ",2020-03-22,"residential",7
+"BZ",2020-03-21,"residential",5
+"BZ",2020-03-20,"residential",3
+"BZ",2020-03-19,"residential",3
+"BZ",2020-03-18,"residential",3
+"BZ",2020-03-17,"residential",3
+"BZ",2020-03-16,"residential",2
+"BZ",2020-03-15,"residential",1
+"BZ",2020-03-14,"residential",0
+"BZ",2020-03-13,"residential",0
+"BZ",2020-03-12,"residential",0
+"BZ",2020-03-11,"residential",0
+"BZ",2020-03-10,"residential",0
+"BZ",2020-03-09,"residential",6
+"BZ",2020-03-08,"residential",6
+"BZ",2020-03-07,"residential",-1
+"BZ",2020-03-06,"residential",-1
+"BZ",2020-03-05,"residential",0
+"BZ",2020-03-04,"residential",0
+"BZ",2020-03-03,"residential",0
+"BZ",2020-03-02,"residential",0
+"BZ",2020-03-01,"residential",0
+"BZ",2020-02-29,"residential",-1
+"BZ",2020-02-28,"residential",-1
+"BZ",2020-02-27,"residential",0
+"BZ",2020-02-26,"residential",1
+"BZ",2020-02-25,"residential",0
+"BZ",2020-02-24,"residential",0
+"BZ",2020-02-23,"residential",0
+"BZ",2020-02-22,"residential",-1
+"BZ",2020-02-21,"residential",0
+"BZ",2020-02-20,"residential",0
+"BZ",2020-02-19,"residential",3
+"BZ",2020-02-18,"residential",0
+"BZ",2020-02-17,"residential",0
+"BZ",2020-02-16,"residential",0
+"BZ",2020-04-05,"retail and recreation",-76
+"BZ",2020-04-04,"retail and recreation",-74
+"BZ",2020-04-03,"retail and recreation",-68
+"BZ",2020-04-02,"retail and recreation",-67
+"BZ",2020-04-01,"retail and recreation",-47
+"BZ",2020-03-31,"retail and recreation",-43
+"BZ",2020-03-30,"retail and recreation",-47
+"BZ",2020-03-29,"retail and recreation",-63
+"BZ",2020-03-28,"retail and recreation",-57
+"BZ",2020-03-27,"retail and recreation",-54
+"BZ",2020-03-26,"retail and recreation",-54
+"BZ",2020-03-25,"retail and recreation",-45
+"BZ",2020-03-24,"retail and recreation",-42
+"BZ",2020-03-23,"retail and recreation",-24
+"BZ",2020-03-22,"retail and recreation",-36
+"BZ",2020-03-21,"retail and recreation",-18
+"BZ",2020-03-20,"retail and recreation",-8
+"BZ",2020-03-19,"retail and recreation",-9
+"BZ",2020-03-18,"retail and recreation",-10
+"BZ",2020-03-17,"retail and recreation",-9
+"BZ",2020-03-16,"retail and recreation",-5
+"BZ",2020-03-15,"retail and recreation",-4
+"BZ",2020-03-14,"retail and recreation",0
+"BZ",2020-03-13,"retail and recreation",4
+"BZ",2020-03-12,"retail and recreation",4
+"BZ",2020-03-11,"retail and recreation",1
+"BZ",2020-03-10,"retail and recreation",1
+"BZ",2020-03-09,"retail and recreation",-11
+"BZ",2020-03-08,"retail and recreation",-9
+"BZ",2020-03-07,"retail and recreation",1
+"BZ",2020-03-06,"retail and recreation",-1
+"BZ",2020-03-05,"retail and recreation",2
+"BZ",2020-03-04,"retail and recreation",3
+"BZ",2020-03-03,"retail and recreation",1
+"BZ",2020-03-02,"retail and recreation",3
+"BZ",2020-03-01,"retail and recreation",6
+"BZ",2020-02-29,"retail and recreation",5
+"BZ",2020-02-28,"retail and recreation",7
+"BZ",2020-02-27,"retail and recreation",6
+"BZ",2020-02-26,"retail and recreation",1
+"BZ",2020-02-25,"retail and recreation",1
+"BZ",2020-02-24,"retail and recreation",1
+"BZ",2020-02-23,"retail and recreation",3
+"BZ",2020-02-22,"retail and recreation",4
+"BZ",2020-02-21,"retail and recreation",0
+"BZ",2020-02-20,"retail and recreation",1
+"BZ",2020-02-19,"retail and recreation",3
+"BZ",2020-02-18,"retail and recreation",1
+"BZ",2020-02-17,"retail and recreation",4
+"BZ",2020-02-16,"retail and recreation",3
+"BZ",2020-04-05,"transit stations",-82
+"BZ",2020-04-04,"transit stations",-78
+"BZ",2020-04-03,"transit stations",-75
+"BZ",2020-04-02,"transit stations",-75
+"BZ",2020-04-01,"transit stations",-62
+"BZ",2020-03-31,"transit stations",-60
+"BZ",2020-03-30,"transit stations",-62
+"BZ",2020-03-29,"transit stations",-68
+"BZ",2020-03-28,"transit stations",-65
+"BZ",2020-03-27,"transit stations",-64
+"BZ",2020-03-26,"transit stations",-62
+"BZ",2020-03-25,"transit stations",-60
+"BZ",2020-03-24,"transit stations",-55
+"BZ",2020-03-23,"transit stations",-32
+"BZ",2020-03-22,"transit stations",-27
+"BZ",2020-03-21,"transit stations",-14
+"BZ",2020-03-20,"transit stations",-12
+"BZ",2020-03-19,"transit stations",-12
+"BZ",2020-03-18,"transit stations",-11
+"BZ",2020-03-17,"transit stations",-9
+"BZ",2020-03-16,"transit stations",-7
+"BZ",2020-03-15,"transit stations",-3
+"BZ",2020-03-14,"transit stations",4
+"BZ",2020-03-13,"transit stations",4
+"BZ",2020-03-12,"transit stations",5
+"BZ",2020-03-11,"transit stations",6
+"BZ",2020-03-10,"transit stations",7
+"BZ",2020-03-09,"transit stations",-10
+"BZ",2020-03-08,"transit stations",-12
+"BZ",2020-03-07,"transit stations",6
+"BZ",2020-03-06,"transit stations",7
+"BZ",2020-03-05,"transit stations",8
+"BZ",2020-03-04,"transit stations",10
+"BZ",2020-03-03,"transit stations",7
+"BZ",2020-03-02,"transit stations",6
+"BZ",2020-03-01,"transit stations",11
+"BZ",2020-02-29,"transit stations",17
+"BZ",2020-02-28,"transit stations",16
+"BZ",2020-02-27,"transit stations",9
+"BZ",2020-02-26,"transit stations",8
+"BZ",2020-02-25,"transit stations",7
+"BZ",2020-02-24,"transit stations",9
+"BZ",2020-02-23,"transit stations",7
+"BZ",2020-02-22,"transit stations",17
+"BZ",2020-02-21,"transit stations",8
+"BZ",2020-02-20,"transit stations",3
+"BZ",2020-02-19,"transit stations",9
+"BZ",2020-02-18,"transit stations",5
+"BZ",2020-02-17,"transit stations",5
+"BZ",2020-02-16,"transit stations",7
+"BZ",2020-04-05,"workplaces",-57
+"BZ",2020-04-04,"workplaces",-57
+"BZ",2020-04-03,"workplaces",-62
+"BZ",2020-04-02,"workplaces",-63
+"BZ",2020-04-01,"workplaces",-53
+"BZ",2020-03-31,"workplaces",-51
+"BZ",2020-03-30,"workplaces",-50
+"BZ",2020-03-29,"workplaces",-42
+"BZ",2020-03-28,"workplaces",-42
+"BZ",2020-03-27,"workplaces",-46
+"BZ",2020-03-26,"workplaces",-48
+"BZ",2020-03-25,"workplaces",-45
+"BZ",2020-03-24,"workplaces",-43
+"BZ",2020-03-23,"workplaces",-32
+"BZ",2020-03-22,"workplaces",-19
+"BZ",2020-03-21,"workplaces",-9
+"BZ",2020-03-20,"workplaces",-4
+"BZ",2020-03-19,"workplaces",-4
+"BZ",2020-03-18,"workplaces",-1
+"BZ",2020-03-17,"workplaces",-1
+"BZ",2020-03-16,"workplaces",0
+"BZ",2020-03-15,"workplaces",0
+"BZ",2020-03-14,"workplaces",2
+"BZ",2020-03-13,"workplaces",3
+"BZ",2020-03-12,"workplaces",2
+"BZ",2020-03-11,"workplaces",3
+"BZ",2020-03-10,"workplaces",3
+"BZ",2020-03-09,"workplaces",-32
+"BZ",2020-03-08,"workplaces",-32
+"BZ",2020-03-07,"workplaces",-2
+"BZ",2020-03-06,"workplaces",-1
+"BZ",2020-03-05,"workplaces",1
+"BZ",2020-03-04,"workplaces",3
+"BZ",2020-03-03,"workplaces",3
+"BZ",2020-03-02,"workplaces",2
+"BZ",2020-03-01,"workplaces",1
+"BZ",2020-02-29,"workplaces",2
+"BZ",2020-02-28,"workplaces",4
+"BZ",2020-02-27,"workplaces",1
+"BZ",2020-02-26,"workplaces",1
+"BZ",2020-02-25,"workplaces",3
+"BZ",2020-02-24,"workplaces",2
+"BZ",2020-02-23,"workplaces",1
+"BZ",2020-02-22,"workplaces",1
+"BZ",2020-02-21,"workplaces",3
+"BZ",2020-02-20,"workplaces",1
+"BZ",2020-02-19,"workplaces",-11
+"BZ",2020-02-18,"workplaces",3
+"BZ",2020-02-17,"workplaces",0
+"BZ",2020-02-16,"workplaces",0

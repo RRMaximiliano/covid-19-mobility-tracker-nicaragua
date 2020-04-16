@@ -20,7 +20,7 @@ run_codes <- FALSE
 if (!require("pacman")) install.packages("pacman")
 
 pacman::p_load(tidyverse, hrbrthemes, janitor, lubridate, wesanderson,
-               here, extrafont, patchwork, scales, viridis)
+               here, extrafont, patchwork, scales, viridis, car)
 
 #------------------------------------------------------------------------------#
 # 2. FILE PATHS----
