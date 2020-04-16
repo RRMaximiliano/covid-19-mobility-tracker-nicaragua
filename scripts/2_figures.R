@@ -3,7 +3,12 @@
 # repo: pastelsky/covid-19-mobility-tracker
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-# Nicaragua
+# Get current date
+date <- Sys.Date()
+
+#------------------------------------------------------------------------------#
+# Nicaragua ----
+#------------------------------------------------------------------------------#
 data <- readRDS("data/nic-google-mobility-data-2020-04-15.rds") %>% 
     mutate(
         variable = stringr::str_to_title(gsub("and", "&", variable))
@@ -34,8 +39,11 @@ ggsave(paste0(figures, "/fig-", date, ".pdf"),
 ggsave(paste0(figures, "/fig-", date, ".png"), dpi = 750, 
        height = 6, width = 10)
 
-# Central America
-data <- readRDS(file.path(data, "ca-google-mobility-data-2020-04-15.rds")) 
+#------------------------------------------------------------------------------#
+# Central America ----
+#------------------------------------------------------------------------------#
+
+data <- readRDS("data/ca-google-mobility-data-2020-04-15.rds")
 
 data <- data %>% 
     mutate(

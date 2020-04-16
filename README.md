@@ -9,7 +9,9 @@ This repository contains data from the [COVID-19 Mobility Report](https://www.go
 * `scripts`: contains R scripts that were used to create and clean the dataset, and plot the figure below.
 * `outputs`: contains the outputs from the R scripts.  
 
-![alt text](./outputs/figures/fig-2020-04-15.png)
+![Nicaragua](./outputs/figures/fig-2020-04-15.png)
+
+![Central America](./outputs/figures/ca-fig-2020-04-16.png)
 
 ## Credits
 
