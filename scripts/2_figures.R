@@ -7,8 +7,8 @@ data <- readRDS("data/nic-google-mobility-data-2020-04-15.rds")
 
 data %>% 
     ggplot(aes(x = date, y = value, fill = variable)) + 
-    geom_line(size = 1) +
     geom_ribbon(aes(ymin = 0, ymax = value)) + 
+    geom_line(size = 1) +
     facet_wrap(~variable) + 
     scale_y_continuous(labels = function(x) paste0(x, "%")) + 
     labs(x = NULL,
@@ -22,6 +22,5 @@ data %>%
         legend.position = ""
     )
 
-
-ggsave(paste0("outputs/figures/fig-", date, ".png"), dpi = 400, 
+ggsave(paste0(figures, "/fig-", date, ".png"), dpi = 400, 
        height = 6, width = 10)
